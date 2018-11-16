@@ -1,3 +1,7 @@
+---
+title: Oak Hills Musical 2018
+---
+
 # Oak Hills Musical 2018
 Hey Parents & Students. We’re thrilled that you’re interested in participating in the school play this year. We will be performing Seussical the Musical Jr. We’ve prepared some links to help you prepare for auditions and become more familiar with the plan and the various roles. 
 
