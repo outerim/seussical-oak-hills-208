@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Oak Hills Musical 2018
 description: Seussical the Musical
+google_analytics: "UA-129291659-1"
 defaults:
   -
     scope:
