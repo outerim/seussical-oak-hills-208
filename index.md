@@ -20,6 +20,7 @@ Below are a list of lead characters, a brief description of their role, and a li
 **JoJo (boy or girl)** is a thinker. He/she is a smart child with a wild imagination whose "Thinks" get him/her into trouble. By the end of the show, JoJo learns what it means to be a responsible member of the world, using the power and possibilities of his/her own "Thinks."
 
 * [It’s possible](https://youtu.be/aSNXChwstjk?t=68)
+* [Instrumental](https://youtu.be/ZkwWGivAdoo?t=20)
 
 
 ### Horton, Mr. Mayor
@@ -28,16 +29,19 @@ Below are a list of lead characters, a brief description of their role, and a li
 **Mr. Mayor** is a parent trying hard to raise a difficult child in a difficult world. The Whos may get aggravated with JoJo, but he loves JoJo dearly. Mr. Mayor always tries his best to make the right parenting choices.
 
 * [Alone in the Universe](https://youtu.be/nGN6o6gIVCA?t=78)
+* [Instrumental](https://youtu.be/2Sk8H3rn8zg?t=78)
 
 ### Wikersham Brothers
 **Wikersham Brothers** are not bad guys! They're a lot like kids who tease, play pranks, and get a kick out of making mischief, although often at another expense. They enjoy hanging out, playing off one another, and making music together on the street corner.
 
 * [The Wikersham Brothers](https://youtu.be/rw4KW7ZSgQs?t=31)
+* [Instrumental](https://youtu.be/ajvgGsWLyHg?t=25)
 
 ### Cat
 **Cat In The Hat (boy or girl)** is the essence of mischief, fun, and imagination. The Cat stirs things up, causes trouble, but always sets things right again. He/she helps JoJo to discover the power of his own imagination as they create the story of Seussical Jr. together. The Cat needs to be able to play many comic cameos and is comfortable improvising with an audience.
 
 * [Oh the things](https://youtu.be/drY9t5EO_XE?t=19)
+* [Instrumental](https://youtu.be/rjjr5A_195w?t=19)
 
 ### Gertrude, Mayzie, Sour Kangaroo, Mrs. Mayor, Bird Girls
 
@@ -54,3 +58,5 @@ Below are a list of lead characters, a brief description of their role, and a li
 
 * [Amazing Mayzie pt 1](https://youtu.be/3aCInzmYLGQ?t=96)
 * [Amazing Mayzie pt 2](https://youtu.be/3aCInzmYLGQ?t=183)
+* [Instrumental pt 1](https://youtu.be/rfHm6_fXt60?t=100)
+* [Instrumental pt 2](https://youtu.be/rfHm6_fXt60?t=186)
