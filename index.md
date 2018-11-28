@@ -4,9 +4,10 @@ title: Oak Hills Musical 2018
 
 # Updates
 As we update the website we'll list changes here so you can keep up to date.
-## Thursday 11/28
+## Wednesday 11/28
 * Added forms section with the parent handout and cast signup form from the parent meeting a few weeks ago in case you missed it (or lost the papers).
 * Added instrumental versions of audition songs. When auditioning prospective cast members will perform to the _Instrumental_ versions of the songs listed for their desired part. This might trip you up if you haven't practiced without the vocals. We want kids to be able to put their best foot forward so we're including instrumental versions to practice with too.
+* Added sheet music for all parts and spoken parts for Horton/Mr Mayor and the Cat.
 
 # Welcome!
 Hey Parents & Students. We’re thrilled that you’re interested in participating in the school play this year. We will be performing Seussical the Musical Jr. We’ve prepared some links to help you get ready for auditions and become more familiar with the play and the various roles.
@@ -24,13 +25,14 @@ A few groups have filmed their performance and put them online. If you plan to a
 ## Individual parts
 Leads will be selected by a panel of judges with stage experience who are not members of the PTA and don't have children at the school. We want this process to be as fair and un-biased as possible. Preparation is key since these judges won't know anything about your abilities unless you demonstrate it in auditions.
 
-Below are a list of lead characters, a brief description of their role, and a link to the audition song we'd like you to perform if you want to play that part.
+Below are a list of lead characters, a brief description of their role, and a link to the audition song we'd like you to perform if you want to play that part. **Note that the songs are queued up to start where we'll start playing them for the auditions. Starting in the middle of some songs was not accidental.**
 
 ### JoJo
 **JoJo (boy or girl)** is a thinker. He/she is a smart child with a wild imagination whose "Thinks" get him/her into trouble. By the end of the show, JoJo learns what it means to be a responsible member of the world, using the power and possibilities of his/her own "Thinks."
 
 * [It’s possible](https://youtu.be/aSNXChwstjk?t=68)
 * [Instrumental](https://soundcloud.com/greeneggsandham-2/2-10-its-possible-part-1?in=greeneggsandham-2/sets/seussical-jr-instrumentals#t=0:20)
+* [Sheet Music](/files/auditions/jojo.pdf)
 
 
 ### Horton, Mr. Mayor
@@ -40,18 +42,21 @@ Below are a list of lead characters, a brief description of their role, and a li
 
 * [Alone in the Universe](https://youtu.be/nGN6o6gIVCA?t=78)
 * [Instrumental](https://soundcloud.com/greeneggsandham-2/2-12-alone-in-the-universe?in=greeneggsandham-2/sets/seussical-jr-instrumentals#t=1:18)
+* [Spoken Audition/Sheet Music](/files/auditions/horton-mayor.pdf)
 
 ### Wikersham Brothers
 **Wikersham Brothers** are not bad guys! They're a lot like kids who tease, play pranks, and get a kick out of making mischief, although often at another expense. They enjoy hanging out, playing off one another, and making music together on the street corner.
 
 * [The Wikersham Brothers](https://youtu.be/rw4KW7ZSgQs?t=31)
 * [Instrumental](https://soundcloud.com/greeneggsandham-2/2-16-monkey-around-chasing-the?in=greeneggsandham-2/sets/seussical-jr-instrumentals#t=0:31)
+* [Sheet Music](/files/auditions/wickershams.pdf)
 
 ### Cat
 **Cat In The Hat (boy or girl)** is the essence of mischief, fun, and imagination. The Cat stirs things up, causes trouble, but always sets things right again. He/she helps JoJo to discover the power of his own imagination as they create the story of Seussical Jr. together. The Cat needs to be able to play many comic cameos and is comfortable improvising with an audience.
 
-* [Oh the things](https://youtu.be/drY9t5EO_XE?t=19)
+* [Oh the things](https://youtu.be/drY9t5EO_XE?t=17)
 * [Instrumental](https://soundcloud.com/greeneggsandham-2/2-02-oh-the-things-you-can?in=greeneggsandham-2/sets/seussical-jr-instrumentals#t=0:17)
+* [Spoken Audition/Sheet Music](/files/auditions/cat.pdf)
 
 ### Gertrude, Mayzie, Sour Kangaroo, Mrs. Mayor, Bird Girls
 
@@ -65,8 +70,8 @@ Below are a list of lead characters, a brief description of their role, and a li
 
 **Bird Girls** are Mayzie's entourage. Unlike Gertrude they are confident but not as flamboyant as Mayzie. They liven up the stage.
 
-
-* [Amazing Mayzie pt 1](https://youtu.be/3aCInzmYLGQ?t=96)
-* [Amazing Mayzie pt 2](https://youtu.be/3aCInzmYLGQ?t=181)
-* [Instrumental pt 1](https://soundcloud.com/greeneggsandham-2/2-13-the-one-feather-tail-of?in=greeneggsandham-2/sets/seussical-jr-instrumentals#t=1:36)
-* [Instrumental pt 2](https://soundcloud.com/greeneggsandham-2/2-13-the-one-feather-tail-of?in=greeneggsandham-2/sets/seussical-jr-instrumentals#t=3:01)
+* [Amazing Mayzie part A](https://youtu.be/3aCInzmYLGQ?t=96)
+* [Amazing Mayzie part B](https://youtu.be/3aCInzmYLGQ?t=181)
+* [Instrumental part A](https://soundcloud.com/greeneggsandham-2/2-13-the-one-feather-tail-of?in=greeneggsandham-2/sets/seussical-jr-instrumentals#t=1:36)
+* [Instrumental part B](https://soundcloud.com/greeneggsandham-2/2-13-the-one-feather-tail-of?in=greeneggsandham-2/sets/seussical-jr-instrumentals#t=3:01)
+* [Sheet Music](/files/auditions/mayzie.pdf)
