@@ -2,12 +2,17 @@
 title: Oak Hills Musical 2018
 ---
 
+<div class="updates">
+
 # Updates
-As we update the website we'll list changes here so you can keep up to date.
 ## Wednesday 11/28
 * Added forms section with the parent handout and cast signup form from the parent meeting a few weeks ago in case you missed it (or lost the papers).
 * Added instrumental versions of audition songs. When auditioning prospective cast members will perform to the _Instrumental_ versions of the songs listed for their desired part. This might trip you up if you haven't practiced without the vocals. We want kids to be able to put their best foot forward so we're including instrumental versions to practice with too.
 * Added sheet music for all parts and spoken parts for Horton/Mr Mayor and the Cat.
+
+</div>
+
+-----------
 
 # Welcome!
 Hey Parents & Students. We’re thrilled that you’re interested in participating in the school play this year. We will be performing Seussical the Musical Jr. We’ve prepared some links to help you get ready for auditions and become more familiar with the play and the various roles.
