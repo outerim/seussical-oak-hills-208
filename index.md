@@ -5,9 +5,10 @@ title: Oak Hills Musical 2018
 <div class="updates" markdown="1">
 
 # Updates
-## Friday Jan. 4th
-* Cast lists have been posted!
+## Saturday Jan. 12th
+* Important practice change
 * Updated calendar
+* New Quote of the week
 * Music links provided
 * PDF of cast song list
 </div>
@@ -15,12 +16,15 @@ title: Oak Hills Musical 2018
 -----------
 
 # Welcome!
-Hey Parents & Students. We have a finalized list of both casts. I am so excited to report to you that we have 133 students participating in the musical this year! We have hit an all time record! We are looking forward to working with your students and know this is going to be a great show! Seussical is a unique show were the majority of the show is in song. There are few speaking lines. That means there are a lot of songs to learn for the entire cast. Please encourage and support your student(s) to practice the songs at home. The more familiar they are with the lyrics the easier the choreography will come to them at rehearsal. We have provided two music links. The first one has the lyrics with the music, the second is instrumental. As your student becomes more familiar with the music encourage them to try singing it with only the instrumental music. We have also given you a pdf form that shows which song each part sings. You can use this to help your child find their songs to practice.
+Hey Parents & Students. Seussical is a unique show were the majority of the show is in song. There are few speaking lines. That means there are a lot of songs to learn for the entire cast. Please encourage and support your student(s) to practice the songs at home. The more familiar they are with the lyrics the easier the choreography will come to them at rehearsal. We have provided two music links. The first one has the lyrics with the music, the second is instrumental. As your student becomes more familiar with the music encourage them to try singing it with only the instrumental music. We have also given you a pdf form that shows which song each part sings. You can use this to help your child find their songs to practice.
+
+## Important Rehearsal change
+There has been change in location for practices! Practices will no longer be held at the church west of the school. All rehearsals will be held at Oak Hills. We will be using the stage and the **Music Portable**. The change has been made on the calendar as well. Any practices that were scheduled at the church will now be held in the music portable.
 
 ## Quote of the week
-> A person's a person no  matter how small - *Horton*
+> I still think that I'm not such a fool when I sit here and fish in McElligot's Pool! It's possible! Anything's possible! -JoJo
 
-Horton spends the entire time defending that a persons a person no matter how small. He is made fun  of, laughed at, bullied, and even told he has to go to jail for believing this. How often do we go throughout our day feeling like we are insignificant and small? Or that maybe we don't matter in the world but then we have our own 'Horton' step in and help build us up. Talk to your student about the importance of being someones 'Horton' and how a simple "hi", a smile, an invitation to play at recess, or help in the classroom can help lift another child and let them know they are seen and are not small at Oak Hills.
+JoJo finds himself in constant trouble for inventing new thinks. He is told by his parents to try to think less, "stop turning minnows into whales", and to "Think some *normal* thinks instead". At one point while taking a bath JoJo's thinks start again and he thinks he is fishing and swimming in McElligots Pool. This leads to him overflowing the bathtub. His parents rush in and tell him to stop thinking again. JoJo is left by himself to ponder his thinks and he comes to the conclusion that he is not a fool for thinking and creating with his imagination. The imagination is a helpful tool to children, and it helps them process things they have learned, seen, and experienced. Einstein said "Imagination is more important than Knowledge".  Don't let anyone tell you to stop dreaming! Anything is possible! All it takes is a good idea, some imagination, will power, and hard work.
 
 ## Directors
 Thank you to our Directors this year! Brooke Liljenquist and Misty Mayfield will be working with our Leads, Melissa Terry and Chelise Pykles working with our Jungle Citizens, and Cathrine Hess and Bekka Johnson working with our Whos.
