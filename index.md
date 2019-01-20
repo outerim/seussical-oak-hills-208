@@ -5,26 +5,31 @@ title: Oak Hills Musical 2018
 <div class="updates" markdown="1">
 
 # Updates
-## Saturday Jan. 12th
+## Sunday Jan. 20th
+* Show dates and times
 * Important practice change
 * Updated calendar
 * New Quote of the week
-* Music links provided
-* PDF of cast song list
+
 </div>
 
 -----------
 
 # Welcome!
-Hey Parents & Students. Seussical is a unique show were the majority of the show is in song. There are few speaking lines. That means there are a lot of songs to learn for the entire cast. Please encourage and support your student(s) to practice the songs at home. The more familiar they are with the lyrics the easier the choreography will come to them at rehearsal. We have provided two music links. The first one has the lyrics with the music, the second is instrumental. As your student becomes more familiar with the music encourage them to try singing it with only the instrumental music. We have also given you a pdf form that shows which song each part sings. You can use this to help your child find their songs to practice.
+Parents- we have made great progress with our practices so far and we have only had 2 full cast rehearsals! The students have come ready and eager to learn and it has been so much fun! The full cast has learned "Oh the Thinks", "Oh the Thinks Reprise", and "Green eggs and ham". They picked up the songs quickly but practicing them at home will really help. It has been a blast working with the kids this far and we can not wait to add the choreography to the music. Following and learning the choreography will come much easier for them if they are confident with the lyrics. Please encourage your child to listen and practice at home.
+
+## Show dates and times
+Truffula cast performances- March  11th, 13th at 7:00pm. March 15th 3:30pm
+
+Clover cast performances- March 12th, 14th at 7:00pm. March 15th 7:00pm
 
 ## Important Rehearsal change
 There has been change in location for practices! Practices will no longer be held at the church west of the school. All rehearsals will be held at Oak Hills. We will be using the stage and the **Music Portable**. The change has been made on the calendar as well. Any practices that were scheduled at the church will now be held in the music portable.
 
 ## Quote of the week
-> I still think that I'm not such a fool when I sit here and fish in McElligot's Pool! It's possible! Anything's possible! -JoJo
+> Oh, the thinks you can Think if your willing to try...If you open your mind, Oh, the thinks you will find lining up to get  loose! Oh, the  thinks you can think! -Cat in the Hat
 
-JoJo finds himself in constant trouble for inventing new thinks. He is told by his parents to try to think less, "stop turning minnows into whales", and to "Think some *normal* thinks instead". At one point while taking a bath JoJo's thinks start again and he thinks he is fishing and swimming in McElligots Pool. This leads to him overflowing the bathtub. His parents rush in and tell him to stop thinking again. JoJo is left by himself to ponder his thinks and he comes to the conclusion that he is not a fool for thinking and creating with his imagination. The imagination is a helpful tool to children, and it helps them process things they have learned, seen, and experienced. Einstein said "Imagination is more important than Knowledge".  Don't let anyone tell you to stop dreaming! Anything is possible! All it takes is a good idea, some imagination, will power, and hard work.
+ Imagination is the door to possibilities. It helps children with cognitive and social development, emotional, language, and thinking skills. When we encourage children to come up with a new think and to open their minds to new ideas, great ideas are born. “Imagination should be used, not to escape reality, but to create it.” Colin Wilson
 
 ## Directors
 Thank you to our Directors this year! Brooke Liljenquist and Misty Mayfield will be working with our Leads, Melissa Terry and Chelise Pykles working with our Jungle Citizens, and Cathrine Hess and Bekka Johnson working with our Whos.
