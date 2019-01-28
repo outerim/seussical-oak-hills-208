@@ -6,8 +6,9 @@ title: Oak Hills Musical 2018
 
 # Updates
 ## Sunday Jan. 20th
-* Show dates and times
+* Updated welcome and costumes
 * Important practice change
+* Updated director change
 * Updated calendar
 * New Quote of the week
 
@@ -15,8 +16,8 @@ title: Oak Hills Musical 2018
 
 -----------
 
-# Welcome!
-Parents- we have made great progress with our practices so far and we have only had 2 full cast rehearsals! The students have come ready and eager to learn and it has been so much fun! The full cast has learned "Oh the Thinks", "Oh the Thinks Reprise", and "Green eggs and ham". They picked up the songs quickly but practicing them at home will really help. It has been a blast working with the kids this far and we can not wait to add the choreography to the music. Following and learning the choreography will come much easier for them if they are confident with the lyrics. Please encourage your child to listen and practice at home.
+# Welcome! and costumes
+Parents- we continue to make great strides with our practices. Our Whos have started learning "Here on Who", while our Jungle Citizens have learned "Horton hears a Who". Again please encourage your child to practice the songs at home. All of the students have all been cast with their counterparts. We will start doing costume fittings this week. We will be asking parents to help get a couple of items for your child's costume. As we fit them we will see what is needed  and will send out an email letting you know what they need. Thank you again for all of your help getting your students to rehearsal on time! We couldn't do it with out you helping get them there.
 
 ## Show dates and times
 Truffula cast performances- March  11th, 13th at 7:00pm. March 15th 3:30pm
@@ -24,15 +25,16 @@ Truffula cast performances- March  11th, 13th at 7:00pm. March 15th 3:30pm
 Clover cast performances- March 12th, 14th at 7:00pm. March 15th 7:00pm
 
 ## Important Rehearsal change
-There has been change in location for practices! Practices will no longer be held at the church west of the school. All rehearsals will be held at Oak Hills. We will be using the stage and the **Music Portable**. The change has been made on the calendar as well. Any practices that were scheduled at the church will now be held in the music portable.
+We will have a full cast rehearsal this Tuesday January 29th. Please have your child come to the school gym for rehearsal at 7:30.
 
 ## Quote of the week
-> Oh, the thinks you can Think if your willing to try...If you open your mind, Oh, the thinks you will find lining up to get  loose! Oh, the  thinks you can think! -Cat in the Hat
+> You're the biggest blame fool in the Jungle of Nool and I don't care who I tell. Maybe I'm nasty, maybe I'm cruel but you're the biggest blame fool in the Jungle of Nool because someone is thinkin' different than us!  -Sour Kangaroo
 
- Imagination is the door to possibilities. It helps children with cognitive and social development, emotional, language, and thinking skills. When we encourage children to come up with a new think and to open their minds to new ideas, great ideas are born. “Imagination should be used, not to escape reality, but to create it.” Colin Wilson
+ At one point or another we all have to deal with our own Sour Kangaroo. There will be someone who tells us what we think and believe isn't right or good enough. They will have sway over others and lead others to also believe that you are wrong. As hard as it is, we need to stand true to ourselves. When we see someone bullying another person don't join the ranks with the Sour Kangaroo. Be the person to stand up and be a friend. We don't all need to have the same thoughts or ideas. "The best thing you can do is get good at being you!" Dennis T Menace
 
-## Directors
-Thank you to our Directors this year! Brooke Liljenquist and Misty Mayfield will be working with our Leads, Melissa Terry and Chelise Pykles working with our Jungle Citizens, and Cathrine Hess and Bekka Johnson working with our Whos.
+## Director change
+We are sad to say that Bekka Johnson will not be able to help as much with our Whos. We are so grateful for all her hard work and dedication up to this point. We would like to say a big thank you to Mindy Dellenbach for jumping in and helping us out as a new Who director.
+
 
 ## Music
 * [Music with Lyrics Soundcloud](https://soundcloud.com/earthcha2014/sets/seussical-jr-1)
