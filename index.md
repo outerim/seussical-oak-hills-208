@@ -1,11 +1,11 @@
 ---
-title: Oak Hills Musical 2018
+title: Oak Hills Musical 2018-2019
 ---
 
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday Jan. 20th
+## Sunday Jan. 27th
 * Updated welcome and costumes
 * Important practice change
 * Updated director change
