@@ -5,10 +5,8 @@ title: Oak Hills Musical 2018-2019
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday Jan. 27th
-* Updated welcome and costumes
-* Important practice change
-* Updated director change
+## Sunday February 3rd
+* Updated welcome
 * Updated calendar
 * New Quote of the week
 
@@ -16,25 +14,22 @@ title: Oak Hills Musical 2018-2019
 
 -----------
 
-# Welcome! and costumes
-Parents- we continue to make great strides with our practices. Our Whos have started learning "Here on Who", while our Jungle Citizens have learned "Horton hears a Who". Again please encourage your child to practice the songs at home. All of the students have all been cast with their counterparts. We will start doing costume fittings this week. We will be asking parents to help get a couple of items for your child's costume. As we fit them we will see what is needed  and will send out an email letting you know what they need. Thank you again for all of your help getting your students to rehearsal on time! We couldn't do it with out you helping get them there.
+# Welcome! Full calendar update
+Parents- can you believe that we will be opening our show in just 6 weeks! I know that still seems like a long way off but we have a lot of work to do! The kids are sounding great and are picking up the choreography really well! Thank you for having them practice at home. We can hear the difference so please continue to encourage the practicing. The calendar has been updated with every practice, performance, and call times for the rest of rehearsals and shows. Just a reminder that the all dress rehearsals are mandatory. For more info on rehearsal times please look below. We are excited about the show and are having such a great time with your students. Thank you for your help getting them to rehearsals early in the mornings. Without your support we would not be able to do this.
+
+## Important Rehearsal changes
+We have updated the google calendar with all our rehearsals for the rest of the year. We will start having some Monday and Friday morning rehearsals. Please be sure to look at the time and location of your students rehearsal. Towards the end of February and beginning of March we will have many practices almost every day of the week so be sure to check the calendar often. If there is a change to what we have on the calendar we will send out an email with the update. We know that some Monday rehearsal times might conflict with early morning orchestra rehearsal. If that applies to your student please contact Savannah Jensen and we will work out an arrangement.
+
+
+## Quote of the week
+> One small voice in the universe, one true friend in the universe, who believes in me. -JoJo and Horton
+
+JoJo and Horton feel like they are alone in their worlds. They feel like no one understands them and they don't have a true friend. Then they find each other. They find that they both like to dream in bright colors and use their imaginations. Finding a friend can be hard and nerve wracking, but it is something we all go through. Remember to be kind and reach out to one another because "Kindness is a gift everyone can afford to give." Unknown
 
 ## Show dates and times
 Truffula cast performances- March  11th, 13th at 7:00pm. March 15th 3:30pm
 
 Clover cast performances- March 12th, 14th at 7:00pm. March 15th 7:00pm
-
-## Important Rehearsal change
-We will have a full cast rehearsal this Tuesday January 29th. Please have your child come to the school gym for rehearsal at 7:30.
-
-## Quote of the week
-> You're the biggest blame fool in the Jungle of Nool and I don't care who I tell. Maybe I'm nasty, maybe I'm cruel but you're the biggest blame fool in the Jungle of Nool because someone is thinkin' different than us!  -Sour Kangaroo
-
- At one point or another we all have to deal with our own Sour Kangaroo. There will be someone who tells us what we think and believe isn't right or good enough. They will have sway over others and lead others to also believe that you are wrong. As hard as it is, we need to stand true to ourselves. When we see someone bullying another person don't join the ranks with the Sour Kangaroo. Be the person to stand up and be a friend. We don't all need to have the same thoughts or ideas. "The best thing you can do is get good at being you!" Dennis T Menace
-
-## Director change
-We are sad to say that Bekka Johnson will not be able to help as much with our Whos. We are so grateful for all her hard work and dedication up to this point. We would like to say a big thank you to Mindy Dellenbach for jumping in and helping us out as a new Who director.
-
 
 ## Music
 * [Music with Lyrics Soundcloud](https://soundcloud.com/earthcha2014/sets/seussical-jr-1)
@@ -91,7 +86,7 @@ We have left a video of a full show for your child to still watch if they have n
 | Rebekah  Stats      |                       |                   |
 | Jeffrey Thiriot     |                       |                   |
 
-## Truffula cast (Red)
+## Truffula cast (Yellow)
 **Cat:** Elle Mayfield<br/>
 **JoJo:** Henry Brown<br/>
 **Horton:** Simon Barlow<br/>
