@@ -5,8 +5,11 @@ title: Oak Hills Musical 2018-2019
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday February 3rd
+## Sunday February 10th
 * Updated welcome
+* Shout outs
+* Musical sponsors
+* Costume note
 * Updated calendar
 * New Quote of the week
 
@@ -14,17 +17,28 @@ title: Oak Hills Musical 2018-2019
 
 -----------
 
-# Welcome! Full calendar update
-Parents- can you believe that we will be opening our show in just 6 weeks! I know that still seems like a long way off but we have a lot of work to do! The kids are sounding great and are picking up the choreography really well! Thank you for having them practice at home. We can hear the difference so please continue to encourage the practicing. The calendar has been updated with every practice, performance, and call times for the rest of rehearsals and shows. Just a reminder that the all dress rehearsals are mandatory. For more info on rehearsal times please look below. We are excited about the show and are having such a great time with your students. Thank you for your help getting them to rehearsals early in the mornings. Without your support we would not be able to do this.
+# Welcome!
+Rehearsals are going so well! We are having a great time with the kids. Quick note- we are no longer using the portable. All the practices are either in the gym on the stage or in the Library.
+Choreography is coming along and looking great. We can really tell students are practicing at home! Please still encourage that. All leads need to be off script by now. That means they have all their lines and songs memorized. As your students practice, have them sing their songs one time with the lyrics. Then move to the songs without the lyrics. This will help solidify their parts and help them recognize where they need help.
+
+# Shout outs
+We are going to continue the tradition of our parent shout out note to their students them in programs. For $5 you can write a proud/encouraging note (4-5 sentences) to your student. The students love seeing in the program and it is a fun thing for them to find. If this is something you would like to do please bring your shout out with $5 to the front office. They can also be given to Savannah Jensen at a morning practice. Shout outs need to be turned in by February 15th end of school day.
+
+# Musical Sponsors
+We have been asked about putting advertisements in our programs. We would love to have companies put an advertisement in and help sponsor our play. If you have a company or know of one that would like to sponsor our play please let a Seussical director know. They can also email us at oakhillsmusical@gmail.com.
+Ad spaces are $25 for a quarter of a page. $50 for a half page, and $100 for a full page. We will need the sponsorships by Monday, February 18th.
+
+# Costumes
+In the next couple of weeks you will be receiving an email letting you know what we need to get your child for their costumes. Every student will need to wear a black base under their costumes. Black pants/leggings and a black short sleeve tshirt. Tighter fitting is better. No tank tops, no logos on the shirt please.
 
 ## Important Rehearsal changes
 We have updated the google calendar with all our rehearsals for the rest of the year. We will start having some Monday and Friday morning rehearsals. Please be sure to look at the time and location of your students rehearsal. Towards the end of February and beginning of March we will have many practices almost every day of the week so be sure to check the calendar often. If there is a change to what we have on the calendar we will send out an email with the update. We know that some Monday rehearsal times might conflict with early morning orchestra rehearsal. If that applies to your student please contact Savannah Jensen and we will work out an arrangement.
 
 
 ## Quote of the week
-> One small voice in the universe, one true friend in the universe, who believes in me. -JoJo and Horton
+> I meant what I said and I said what I meant: An Elephant is faithful one hundred percent. You can throw me in Jail, lock me up in a zoo, but I won't desert my egg and I will not abandon Who! Horton
 
-JoJo and Horton feel like they are alone in their worlds. They feel like no one understands them and they don't have a true friend. Then they find each other. They find that they both like to dream in bright colors and use their imaginations. Finding a friend can be hard and nerve wracking, but it is something we all go through. Remember to be kind and reach out to one another because "Kindness is a gift everyone can afford to give." Unknown
+Horton has found a purpose in his life. He no longer feels alone and recognizes that although no one believes him he is strong and that he can stand up for what he knows is right. Be Horton! Be brave and stand up for what you know is good and right!
 
 ## Show dates and times
 Truffula cast performances- March  11th, 13th at 7:00pm. March 15th 3:30pm
