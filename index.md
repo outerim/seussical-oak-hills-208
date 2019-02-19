@@ -5,11 +5,9 @@ title: Oak Hills Musical 2018-2019
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday February 10th
+## Monday February 18th
 * Updated welcome
-* Shout outs
-* Musical sponsors
-* Costume note
+* Hair and makeup sign up
 * Updated calendar
 * New Quote of the week
 
@@ -18,27 +16,20 @@ title: Oak Hills Musical 2018-2019
 -----------
 
 # Welcome!
-Rehearsals are going so well! We are having a great time with the kids. Quick note- we are no longer using the portable. All the practices are either in the gym on the stage or in the Library.
-Choreography is coming along and looking great. We can really tell students are practicing at home! Please still encourage that. All leads need to be off script by now. That means they have all their lines and songs memorized. As your students practice, have them sing their songs one time with the lyrics. Then move to the songs without the lyrics. This will help solidify their parts and help them recognize where they need help.
-
-# Shout outs
-We are going to continue the tradition of our parent shout out note to their students them in programs. For $5 you can write a proud/encouraging note (4-5 sentences) to your student. The students love seeing in the program and it is a fun thing for them to find. If this is something you would like to do please bring your shout out with $5 to the front office. They can also be given to Savannah Jensen at a morning practice. Shout outs need to be turned in by February 15th end of school day.
-
-# Musical Sponsors
-We have been asked about putting advertisements in our programs. We would love to have companies put an advertisement in and help sponsor our play. If you have a company or know of one that would like to sponsor our play please let a Seussical director know. They can also email us at oakhillsmusical@gmail.com.
-Ad spaces are $25 for a quarter of a page. $50 for a half page, and $100 for a full page. We will need the sponsorships by Monday, February 18th.
+Here we go parents it is crunch time. 3 weeks until opening night! We have a lot to still get done so please if possible have your students at school by 7:30am on their days ready to go. We will have Monday and Friday rehearsals starting this week as well. We are having a great time and love working with the kids. Please encourage practicing at home. We are making good progress at school but it helps a lot if it is solidified at home.
 
 # Costumes
-In the next couple of weeks you will be receiving an email letting you know what we need to get your child for their costumes. Every student will need to wear a black base under their costumes. Black pants/leggings and a black short sleeve tshirt. Tighter fitting is better. No tank tops, no logos on the shirt please.
+All students need a black base. Short sleeve shirt and black pants or leggings. Look for an email this week with specific costume details for your students part.
 
-## Important Rehearsal changes
-We have updated the google calendar with all our rehearsals for the rest of the year. We will start having some Monday and Friday morning rehearsals. Please be sure to look at the time and location of your students rehearsal. Towards the end of February and beginning of March we will have many practices almost every day of the week so be sure to check the calendar often. If there is a change to what we have on the calendar we will send out an email with the update. We know that some Monday rehearsal times might conflict with early morning orchestra rehearsal. If that applies to your student please contact Savannah Jensen and we will work out an arrangement.
-
+## Hair and Makeup
+We are in need of people to sign up and help with hair and makeup the week of the show and for the dress rehearsal.  
+[SignupGenius](https://www.signupgenius.com/go/20f0c4facae2cabfc1-seussical)
 
 ## Quote of the week
-> I meant what I said and I said what I meant: An Elephant is faithful one hundred percent. You can throw me in Jail, lock me up in a zoo, but I won't desert my egg and I will not abandon Who! Horton
+> The world would be something new, if they noticed a thing or two. Horton
 
-Horton has found a purpose in his life. He no longer feels alone and recognizes that although no one believes him he is strong and that he can stand up for what he knows is right. Be Horton! Be brave and stand up for what you know is good and right!
+Sometimes we glide through life not paying attention to people and their  needs. We get caught up in the many things we have going on, and get a little to distracted to notice. The world would be a better place if we opened our eyes a little wider to find those who are right in front of us who need a pick me up, a friend, or a simple smile.
+
 
 ## Show dates and times
 Truffula cast performances- March  11th, 13th at 7:00pm. March 15th 3:30pm
