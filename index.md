@@ -78,7 +78,7 @@ Black long sleeve shirt, black pants, black socks, black shoes. They will wear t
 
 Make up- light blush and lipstick (yes you to boys) we don’t want anyone to look washed out on stage.
 
-Mr. Mayor/Mrs. Mayor-
+**Mr. Mayor/Mrs. Mayor**-
 Mr. Mayor- Yellow shirt, black socks, black shoes. They will be wearing yellow pants. Please were a base shorts or leggings underneath
 
 Mrs. Mayor- White base shirt, White tights, black shoes
