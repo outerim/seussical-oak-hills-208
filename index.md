@@ -188,14 +188,14 @@ We have left a video of a full show for your child to still watch if they have n
 | Campbell Anderson   | Ryan  Bleazard        | Dane Anderson     |
 | Sage Anderson       | Bridger Bronson       | Jayson DeFriez    |
 | Brooklyn  Anderton  | Brooklyn  Bronson     | Emerson Geilman   |
-| Gwen Christensen    | Samantha Campbell     | Chase Letchenberg |
+| Gwen Christensen    | Samantha Campbell     | Chase Lechtenberg |
 | Trinton Christensen | Ethan Christensen     | Porter Murdock    |
 | Davis  Duke         | Addison Cook          | Zach Turgoose     |
 | Reagan  Duryea      | Nate Dellenbach       |                   |
 | Amelia  Geilman     | Samuel Frei           | **Bird Girls**    |
 | Audrey Jensen       | Elizabeth Geilman     | Ellie Anderton    |
 | Ella  Jensen        | Samantha  Jensen      | Brenna Clawson    |
-| Amelia  Johnson     | Megan  Letchenberg    | Allie Duke        |
+| Amelia  Johnson     | Megan  Lechtenberg    | Allie Duke        |
 | Eden Liljenquist    | Jane Meidell          | Sabrina Layne     |
 | Nels Mickelson      | Kiley Robert          | Sophia Lyman      |
 | Mathias Morrow      |                       | Ellie  Orgill     |
