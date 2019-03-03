@@ -8,7 +8,8 @@ title: Oak Hills Musical 2018-2019
 ## Sunday February 24th
 * Updated welcome
 * Tickets
-* Cast photos
+* Dress Rehearsals
+* Brag tags and Dvd's
 * Hallway help SignupGenius
 * Makeup sign up
 * Costumes
@@ -20,13 +21,16 @@ title: Oak Hills Musical 2018-2019
 -----------
 
 # Welcome!
-2 weeks and counting! Here we go! We have lots to do and practice so please have your students attend as many rehearsals as possible. We understand if your child is sick and appreciate them staying home if they are. Reminder that dress rehearsals are not optional and all students are required to be there (unless they are sick). There has also been questions on if your child needs to be there when the calendar says entire cast Truffula/Clover run through. Yes we need all of them there because they will watch and review. Also step in if their counter part is not there. We are in crunch time. All students should be listening to the minus tracks for their songs. Please please encourage your child to practice their songs at home. The best way to describe Seussical is "we are teaching the kids an opera" because it is all song.
+Last week of rehearsals! Parents did you ever think we would get here?! Are you tired of listening to Oh the Thinks or It's possible?! If not don't worry "it's possible" it could happen! These kids have been rock stars the last couple of months! They have learned so much and have been doing a great job showing that on stage. Lets get through this week and enjoy all of their hard work the next week! It is still very important for them to continue to practice at home. Tuesday morning there will be a small treat for those kids who have practiced so please encourage them to do so. Here's to an excellent last week of hard work!
 
 # Tickets
-Tickets are available Friday March 1st after school. The ticket table will be set up in the front vestibule from 1:30pm-3:30pm. We ask you to please stand in line. We will have two lines. One for Clover (blue cast) and another for Truffula (yellow cast). If you are not sure what cast you child is in please look below to find their cast. Everyone will stand in line. When it is your turn to get tickets you will be given 6 tickets of your choosing. If you need more tickets we ask you to please get back in line. You can do this as many times as you need to get the tickets you would like. This allows everyone a fair chance at getting the best tickets they can. Please be prepared for a long line. Our ticket volunteers will help you as quickly as they are able. Please be patient.
+If you missed getting your tickets you can email Terra Lechtenberg at terralech@gmail.com. Thank to those who stood in line and were very patient with the long wait.
 
-# Cast Photos
-We will be taking cast photos Tuesday February 26th at the beginning of rehearsal. Please have your student on time.
+#Dress Rehearsals
+This week is our final dress rehearsal week. We really need to have all the students in both casts every morning starting Tues. March 5th. Final dress with costumes is Friday March 8th. That dress is mandatory. Clover cast will be right after school. Truffula cast please return back to the school by 2:45 to start getting ready for your dress rehearsal. Please send non messy snacks with your students to eat in their down time. Please only water to drink. NO sodas!
+
+#Brag tags and DVD's
+We will be selling brag tag and dvd's again this year. Brag tag photos will be taken on Friday March 8th during their dress rehearsals while they are in costume and make up. Brag tags are $5.00 and dvd's are $15.00. There will be order forms every night of the perfomannces.
 
 # Hallway help signup genius
 Parents- we have created a signup genius for hallway help during the shows run times. We need two parent volunteers for each group each night. There are 3 groups so we will need a total of 6 parents each night. If you are able please signup on a night your child is not performing so everyone has the opportunity to watch their child's performances.
@@ -145,10 +149,9 @@ Hair- They will be wearing a hat
 Make up- light blush and lipstick (yes you to boys) we don’t want anyone to look washed out on stage.
 
 ## Quote of the week
-> It's taken all my courage to approach you, not to mention all my stamina to follow you across the hills and deserts. But I feel as if I'm ready to confess to you the feelings that I've hidden with great diligence and labor...behind the facade of your odd little next door. Neighbor. My eyes are to small. I have very large feet. And I'm not very proud of my pitiful tweet. But I've now got a tail that is something to see. Gertrude McFuzz
+> And Their whole world was saved by the Smallest of All! Horton
 
-Gertrude McFuzz had the smallest plain tail ever was. This tail made her sad. She did not think it was beautiful. She tried to change the appearance of it by curling it, dying it, or giving it a puff. But it was was it was. Gertrude went to the Doctor and asked him what kind of pill she could take to change herself. Soon she had an amazing tail and felt like she could face her daily challenges. Gertrude quickly learns that she doesn't love her big tail. It didn't change who she was or her value. We face our own Gertrude moments when we don't feel like we are good enough because we don't have the right shoes, haircut, smartphone, or clothes. The biggest lesson we can learn from Gertrude is we need to love who we really are and find happiness. Otherwise those extra things won't and can't bring real happiness.
-
+A hero doesn't have to be the biggest or loudest person. A hero is someone who takes a stand for what they know is right.
 
 ## Show dates and times
 Truffula cast performances- March  11th, 13th at 7:00pm. March 15th 3:30pm
