@@ -26,10 +26,10 @@ Last week of rehearsals! Parents did you ever think we would get here?! Are you 
 # Tickets
 If you missed getting your tickets you can email Terra Lechtenberg at terralech@gmail.com. Thank to those who stood in line and were very patient with the long wait.
 
-#Dress Rehearsals
-This week is our final dress rehearsal week. We really need to have all the students in both casts every morning starting Tues. March 5th. Final dress with costumes is Friday March 8th. That dress is mandatory. Clover cast will be right after school. Truffula cast please return back to the school by 2:45 to start getting ready for your dress rehearsal. Please send non messy snacks with your students to eat in their down time. Please only water to drink. NO sodas!
+# Dress Rehearsals
+This week is our final dress rehearsal week. We really need to have all the students in both casts every morning starting Tues. March 5th. Final dress with costumes is Friday March 8th. That dress is mandatory. Clover cast will be right after school. Truffula cast please return back to the school by 3 to start getting ready for your dress rehearsal. Please send non messy snacks with your students to eat in their down time. Please only water to drink. NO sodas!
 
-#Brag tags and DVD's
+# Brag tags and DVD's
 We will be selling brag tag and dvd's again this year. Brag tag photos will be taken on Friday March 8th during their dress rehearsals while they are in costume and make up. Brag tags are $5.00 and dvd's are $15.00. There will be order forms every night of the perfomannces.
 
 # Hallway help signup genius
