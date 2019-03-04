@@ -30,7 +30,7 @@ If you missed getting your tickets you can email Terra Lechtenberg at terralech@
 This week is our final dress rehearsal week. We really need to have all the students in both casts every morning starting Tues. March 5th. Final dress with costumes is Friday March 8th. That dress is mandatory. Clover cast will be right after school. Truffula cast please return back to the school by 3 to start getting ready for your dress rehearsal. Please send non messy snacks with your students to eat in their down time. Please only water to drink. NO sodas!
 
 # Brag tags and DVD's
-We will be selling brag tag and dvd's again this year. Brag tag photos will be taken on Friday March 8th during their dress rehearsals while they are in costume and make up. Brag tags are $5.00 and dvd's are $15.00. There will be order forms every night of the perfomannces.
+We will be selling brag tag and dvd's again this year. Brag tag photos will be taken on Friday March 8th during their dress rehearsals while they are in costume and make up. Brag tags are $5.00 and dvd's are $15.00. There will be order forms every night of the performances.
 
 # Hallway help signup genius
 Parents- we have created a signup genius for hallway help during the shows run times. We need two parent volunteers for each group each night. There are 3 groups so we will need a total of 6 parents each night. If you are able please signup on a night your child is not performing so everyone has the opportunity to watch their child's performances.
@@ -43,14 +43,14 @@ We are in need of people to sign up and help with hair and makeup the week of th
 
 # Costumes
 **Whos**-
-Black base- black short sleeve shirt and black leggings. Black shoes and socks. No logos on the shirt and no tank tops. All of our whos will have a shirt, skirt, or pants over their base so the tighter their base is the less bulky it will be under thier costumes.
+Black base- black short sleeve shirt and black leggings. Black shoes and socks. No logos on the shirt and no tank tops. All of our whos will have a shirt, skirt, or pants over their base so the tighter their base is the less bulky it will be under their costumes.
 
 Hair as Who like as you can make it
 
 Makeup Light blush and lipstick (yes you to boys) we don’t want anyone to look washed out on stage. Mascara on the girls
 
 **Jungle Citizens**-
-Black base- black short sleeve shirt and black leggings. Black shoes and socks. No logos on the shirt and no tank tops. All of our Jungle citizens will have a costume over their base so the tighter their base is the less bulky it will be under thier costumes.
+Black base- black short sleeve shirt and black leggings. Black shoes and socks. No logos on the shirt and no tank tops. All of our Jungle citizens will have a costume over their base so the tighter their base is the less bulky it will be under their costumes.
 
 Hair- girls hair pulled back into a pony tail or braids
 
@@ -124,7 +124,7 @@ Hair- combed to the side
 Make up- light blush and lipstick (yes you to boys) we don’t want anyone to look washed out on stage.
 
 **Horton**-
-Gray pants, dark gray button up shirt, light gray sweater vest. Black socks, gray or black shoes. If you find a dark gray sweater vest and a ligth gray button up shirt that is fine. We would just like some contrast in the grays that you were. Check the DI!
+Gray pants, dark gray button up shirt, light gray sweater vest. Black socks, gray or black shoes. If you find a dark gray sweater vest and a light gray button up shirt that is fine. We would just like some contrast in the grays that you were. Check the DI!
 
 Hair- they will be wearing a hat
 
