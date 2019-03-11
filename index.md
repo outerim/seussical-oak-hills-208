@@ -5,13 +5,11 @@ title: Oak Hills Musical 2018-2019
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday February 24th
+## Sunday March 10th
 * Updated welcome
 * Tickets
-* Dress Rehearsals
 * Brag tags and Dvd's
 * Hallway help SignupGenius
-* Makeup sign up
 * Costumes
 * Updated calendar
 * New Quote of the week
@@ -21,13 +19,10 @@ title: Oak Hills Musical 2018-2019
 -----------
 
 # Welcome!
-Last week of rehearsals! Parents did you ever think we would get here?! Are you tired of listening to Oh the Thinks or It's possible?! If not don't worry "it's possible" it could happen! These kids have been rock stars the last couple of months! They have learned so much and have been doing a great job showing that on stage. Lets get through this week and enjoy all of their hard work the next week! It is still very important for them to continue to practice at home. Tuesday morning there will be a small treat for those kids who have practiced so please encourage them to do so. Here's to an excellent last week of hard work!
+Here we go! It is performance week! It is time to see all these kids hard work! Dress rehearsal had it snags but all in all things are looking great. We are excited to see it all on stage! Call time for leads every night is 5:15pm. Ensemble is 6:00pm. Truffula leads call on Friday is right after school with ensemble back at 2:30.
 
 # Tickets
 If you missed getting your tickets you can email Terra Lechtenberg at terralech@gmail.com. Thank to those who stood in line and were very patient with the long wait.
-
-# Dress Rehearsals
-This week is our final dress rehearsal week. We really need to have all the students in both casts every morning starting Tues. March 5th. Final dress with costumes is Friday March 8th. That dress is mandatory. Clover cast will be right after school. Truffula cast please return back to the school by 3 to start getting ready for your dress rehearsal. Please send non messy snacks with your students to eat in their down time. Please only water to drink. NO sodas!
 
 # Brag tags and DVD's
 We will be selling brag tag and dvd's again this year. Brag tag photos will be taken on Friday March 8th during their dress rehearsals while they are in costume and make up. Brag tags are $5.00 and dvd's are $15.00. There will be order forms every night of the performances.
@@ -35,11 +30,6 @@ We will be selling brag tag and dvd's again this year. Brag tag photos will be t
 # Hallway help signup genius
 Parents- we have created a signup genius for hallway help during the shows run times. We need two parent volunteers for each group each night. There are 3 groups so we will need a total of 6 parents each night. If you are able please signup on a night your child is not performing so everyone has the opportunity to watch their child's performances.
 [hallway SignupGenius](https://www.signupgenius.com/go/30E0A48ABA72BA4FD0-seussical)
-
-# Hair and Makeup
-We are in need of people to sign up and help with hair and makeup the week of the show and for the dress rehearsal.  
-[SignupGenius](https://www.signupgenius.com/go/20f0c4facae2cabfc1-seussical)
-
 
 # Costumes
 **Whos**-
