@@ -1,0 +1,8 @@
+To start the server
+
+Open Terminal
+Run: cd ~/Documents/Github/oak-hills-musical
+Run: bundle exec jekyll serve
+
+Open safari
+http://localhost:4000
