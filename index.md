@@ -1,244 +1,61 @@
 ---
-title: Oak Hills Musical 2018-2019
+title: Oak Hills Musical 2019-2020
 ---
 
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday March 10th
+## Sunday Nov. 17th 2019
 * Updated welcome
-* Tickets
-* Brag tags and Dvd's
-* Hallway help SignupGenius
-* Costumes
+* Lion King Cast form
+* Lion King Parent Handout
+* Audition Info
+* Youtube links to show
 * Updated calendar
-* New Quote of the week
+
 
 </div>
 
 -----------
 
 # Welcome!
-Here we go! It is performance week! It is time to see all these kids hard work! Dress rehearsal had it snags but all in all things are looking great. We are excited to see it all on stage! Call time for leads every night is 5:15pm. Ensemble is 6:00pm. Truffula leads call on Friday is right after school with ensemble back at 2:30.
+Parents- It is time for this years Lion King Jr.! We are so excited about this show and can not wait to start it! Thank you to those who attended the parent meeting. If you have lost your parent handout and or cast form we will provide a pdf down below. A new one can also be picked up in front of the main office. We have some important dates coming up. Friday Nov. 22nd- 5th and 6th grade lead auditions. Girls- 1:30-3:00pm. Boys- 3:00-4:30pm. Boys please arrive by 2:30pm. Reminder that all dress rehearsals are mandatory. If auditioning for a lead please be sure to check your conflicts for March 6th. Performances are March 9th-13th. Lead role's will be posted outside the front office Nov. 26th. Scripts will be picked up inside the office.
 
-# Tickets
-If you missed getting your tickets you can email Terra Lechtenberg at terralech@gmail.com. Thank to those who stood in line and were very patient with the long wait.
+# Lion King Cast Form
+[Cast Form PDF](/files/Lion King Cast Form.pdf)
 
-# Brag tags and DVD's
-We will be selling brag tag and dvd's again this year. Brag tag photos will be taken on Friday March 8th during their dress rehearsals while they are in costume and make up. Brag tags are $5.00 and dvd's are $15.00. There will be order forms every night of the performances.
+# Lion King Parent Handout
+[Parent Handout PDF](/files/Lion King Jr. Parent Handout.pdf)
 
-# Hallway help signup genius
-Parents- we have created a signup genius for hallway help during the shows run times. We need two parent volunteers for each group each night. There are 3 groups so we will need a total of 6 parents each night. If you are able please signup on a night your child is not performing so everyone has the opportunity to watch their child's performances.
-[hallway SignupGenius](https://www.signupgenius.com/go/30E0A48ABA72BA4FD0-seussical)
+# Audition Info
+Scar, Mufasa, young Simba, and old Simba will all be cast as boys. Nala, Lionesses, and Sarabi will be cast as girls. Timon, Pumbaa, Rafiki, Zazu, Shenzi, Banzai, and Ed can be cast as either boy or girl. You will find a pdf to each of the songs and lines for all the leads. We have also included a link to a youtube song queued where you need to start.
 
-# Costumes
-**Whos**-
-Black base- black short sleeve shirt and black leggings. Black shoes and socks. No logos on the shirt and no tank tops. All of our whos will have a shirt, skirt, or pants over their base so the tighter their base is the less bulky it will be under their costumes.
+### Rafiki- He Lives in You
+[Rafiki PDF](/files/auditions/Rafiki.pdf)<br/>
+[Song](https://youtu.be/HS-eC8hdeh4?t=82)
 
-Hair as Who like as you can make it
+### Simba, Timon, Pumbaa- Hakuna Matata
+[Simba, Timon, Pumbaa PDF](/files/auditions/Simba-Timon-Pumbaa.pdf)<br/>
+[Song](https://youtu.be/6E2dYol_FjE?t=100)
 
-Makeup Light blush and lipstick (yes you to boys) we don’t want anyone to look washed out on stage. Mascara on the girls
+### Scar and Mufasa- Be Prepared
+[Scar and Mufasa PDF](/files/auditions/Scar-Mufasa.pdf)<br/>
+[Song](https:youtu.be/891tW84MAjY?t=28)
 
-**Jungle Citizens**-
-Black base- black short sleeve shirt and black leggings. Black shoes and socks. No logos on the shirt and no tank tops. All of our Jungle citizens will have a costume over their base so the tighter their base is the less bulky it will be under their costumes.
+### Scar, Musfasa, Zazu- lines
+[Scar, Mufasa, Zazu PDF](/files/auditions/Scar-Zazu-Mufasa.pdf)<br/>
 
-Hair- girls hair pulled back into a pony tail or braids
+### Simba and Scar- lines
+[Simba and Scar PDF](/files/auditions/Simba-Scar.pdf)
 
-Makeup- Light blush and lipstick (yes you to boys) we don’t want anyone to look washed out on stage. Mascara on the girls
+### Nala, Lionesses, Sarabi- Shadowland
+[Nala, Lionesses, Sarabai PDF](/files/auditions/Nala-Lionesses-Sarabi.pdf)<br/>
+[Song](https://youtu.be/ujIXToNYWgY?t=81)
 
-**Elephant bird**-
-Gray shirt. They will wear elephant ears headband, and bird wings
-
-**Bird Girls**-
-Black Base- black short sleeve shirt and black leggings. Black dress shoes. No logos on the shirt and no tank tops. Bird girls will wear a feather boa and a skirt.
-
-Hair- Curly
-
-Makeup- Light blush and lipstick. mascara
-
-**Wickersham Brothers**-
-Black Base- black LONG sleeve shirt and black joggers. Black shoes and socks. For the Wickershams pants we are hoping that they can find the kind that have the tighter cuff at the bottom of the pant leg. Similar to these [pants](https://www.target.com/p/boys-knit-moto-jogger-art-class-153-black/-/A-54169164?preselect=54081902#lnk=sametab)
-Wickershams will wear a silver vest and black ball cap with the monkey ears attached
-
-Make up- Light blush, lipstick (yes you to boys) we don’t want anyone to look washed out on stage.
-
-Vlad-
-Black long sleeve shirt, black pants, black shoes, black socks]\
-
-Make up- light blush and lipstick (yes you to boys) we don’t want anyone to look washed out on stage.
-
-**Yertle**-
-Black long sleeve shirt, black pants, black socks, black shoes. They will wear the Yertle costume over the top of that and wear a powder wig
-
-Make up- light blush and lipstick (yes you to boys) we don’t want anyone to look washed out on stage.
-
-**Mr. Mayor/Mrs. Mayor**-
-Mr. Mayor- Yellow shirt, black socks, black shoes. They will be wearing yellow pants. Please were a base shorts or leggings underneath
-
-Mrs. Mayor- White base shirt, White tights, black shoes
-
-Hair- boys combed to the side. Girls- curly hair
-
-Make up- Light blush, lipstick, (yes you to boys) we don’t want anyone to look washed out on stage. Mascara on the girls
-
-**Gertrude**-
-White shorts, white lace socks, black dress shoes, white leotard
-
-Hair- will be done by our hair committee
-
-Make up- light blush, lipstick, mascara
-
-**Sour Kangaroo**-
-Blake- dark purple button up shirt, black dress pants, black socks, black shoes
-
-Alayna- dark purple shirt, black tights, black shoes
-Hair- they will be wearing a hat.
-Make up- light blush, lipstick, (yes you to boys) we don’t want anyone to look washed out on stage. Mascara for the girls
-
-Kate and Samantha- Black short sleeve shirt, black tights, black shoes
-
-Hair- you will be wearing a headband with your kangaroo ears
-
-Make up- Light blush, lipstick, mascara
-
-**Mayzie**-
-Black short sleeve shirt, black tights, Heeled shoes
-Hair- curly hair
-Make up- light blush, lipstick, mascara
-
-**JoJo**-
-Yellow t-shirt, black base leggings, yellow hightops. JoJo will be wearing overalls and a spinner hat
-
-Hair- combed to the side
-
-Make up- light blush and lipstick (yes you to boys) we don’t want anyone to look washed out on stage.
-
-**Horton**-
-Gray pants, dark gray button up shirt, light gray sweater vest. Black socks, gray or black shoes. If you find a dark gray sweater vest and a light gray button up shirt that is fine. We would just like some contrast in the grays that you were. Check the DI!
-
-Hair- they will be wearing a hat
-
-Make up- light blush and lipstick (yes you to boys) we don’t want anyone to look washed out on stage.
-
-**Things 1 and 2**
-Black base. Black short sleeve shirt and either basketball shorts or leggings. Black shoes and socks
-
-Hair- girls pony tail. They will be wearing a wig
-
-Makeup- light blush and lipstick (yes you to boys) we don’t want anyone to look washed out on stage.
-
-**Cat**-
-Lincoln- Black dress pants
-
-Elle- Black base leggings
-
-Both- White button up shirt, red high tops
-
-Hair- They will be wearing a hat
-
-Make up- light blush and lipstick (yes you to boys) we don’t want anyone to look washed out on stage.
-
-## Quote of the week
-> And Their whole world was saved by the Smallest of All! Horton
-
-A hero doesn't have to be the biggest or loudest person. A hero is someone who takes a stand for what they know is right.
-
-## Show dates and times
-Truffula cast performances- March  11th, 13th at 7:00pm. March 15th 3:30pm
-
-Clover cast performances- March 12th, 14th at 7:00pm. March 15th 7:00pm
-
-## Music
-* [Music with Lyrics Soundcloud](https://soundcloud.com/earthcha2014/sets/seussical-jr-1)
-* [Music Instrumental Soundcloud](https://soundcloud.com/greeneggsandham-2/sets/seussical-jr-instrumentals)
-* [Song List PDF](/files/Seussical Cast Songs.pdf)
-## Documents
-
-* [Parent Handout](/files/Seussical Parent Info Handout.pdf)
-
-## Full performances
-We have left a video of a full show for your child to still watch if they have not had a chance to do so yet. It is a good idea for them to watch it so they get a sense of the show in it entirety, and it is a great one to watch!
-
-* [Full show #1](https://m.youtube.com/watch?v=KxMoia-pWx0)
+### Shenzi, Banzai, Ed (Hyenas)- lines
+[Hyenas PDF](/files/auditions/Hyenas.pdf)
 
 
-## Clover cast (Blue)
-**Cat:** Lincoln Pykles<br/>
-**JoJo:** Tate Christensen<br/>
-**Horton:** Ben Liljenquist<br/>
-**Gertrude:** Emilee Jensen<br/>
-**Mayzie:** Rachel Warburton<br/>
-**Sour Kangaroo:** Kate Neilson<br/>
-**Young Kangaroo:** Samantha Godfrey<br/>
-**Mr. Mayor:** Jack Rose<br/>
-**Mrs. Mayor:** McKinley Duryea<br/>
-**Vlad:** Caleb Taylor<br/>
-**Yurtle:** Josh Liljenquist<br/>
-
-| Whos                | Jungle Citizens        | Wickershams       |
-|---------------------|-----------------------|-------------------|
-| Eli Adams           | Abby  Bagley          | Max Ahern         |
-| Campbell Anderson   | Ryan  Bleazard        | Dane Anderson     |
-| Sage Anderson       | Bridger Bronson       | Jayson DeFriez    |
-| Brooklyn  Anderton  | Brooklyn  Bronson     | Emerson Geilman   |
-| Gwen Christensen    | Samantha Campbell     | Chase Lechtenberg |
-| Trinton Christensen | Ethan Christensen     | Porter Murdock    |
-| Davis  Duke         | Addison Cook          | Zach Turgoose     |
-| Reagan  Duryea      | Nate Dellenbach       |                   |
-| Amelia  Geilman     | Samuel Frei           | **Bird Girls**    |
-| Audrey Jensen       | Elizabeth Geilman     | Ellie Anderton    |
-| Ella  Jensen        | Samantha  Jensen      | Brenna Clawson    |
-| Amelia  Johnson     | Megan  Lechtenberg    | Allie Duke        |
-| Eden Liljenquist    | Jane Meidell          | Sabrina Layne     |
-| Nels Mickelson      | Kiley Robert          | Sophia Lyman      |
-| Mathias Morrow      |                       | Ellie  Orgill     |
-| Ally Neilson        | **Backstage Helpers** | Clara Tibbitts    |
-| Blakely Nelson      | Millicent Trevino     |                   |
-| Tessa Partridge     |                       |                   |
-| Kaitlin Robert      |                       |                   |
-| Max Rose            |                       |                   |
-| Jayda  Schow        |                       |                   |
-| Izzy Smoot          |                       |                   |
-| Luke Stats          |                       |                   |
-| Rebekah  Stats      |                       |                   |
-| Jeffrey Thiriot     |                       |                   |
-
-## Truffula cast (Yellow)
-**Cat:** Elle Mayfield<br/>
-**JoJo:** Henry Brown<br/>
-**Horton:** Simon Barlow<br/>
-**Gertrude:** Mary Olsen<br/>
-**Mayzie:** Penny Pilkington<br/>
-**Sour Kangaroo:** Blake Walker<br/>
-**Young Kangaroo:** Alayna Yoho<br/>
-**Mr. Mayor:** Reed Stevens<br/>
-**Mrs. Mayor:** Claire Yates<br/>
-**Vlad:** Brooks Bowers<br/>
-**Yurtle:** Craige Smith<br/>
-
-| Whos              | Jungle Citizens        | Wickershams      |
-|-------------------|-----------------------|------------------|
-| William Barker    | Christian Black       | Jacob Bremner    |
-| Kymber Best       | Lily Bremner          | Jack Ence        |
-| Ashira Coombs     | Chloe Bryson          | Logan  Fuller    |
-| Heidi Ence        | McKenna Cone          | Jack Jordan      |
-| Max Ence          | Tillie Cottam         | Ashby Rupp       |
-| Emily Fuit        | Bronwyn Dickens       | Carter Terry     |
-| Jane Hellewell    | Claire Dodds          | Luke Wright      |
-| Ava Howe          | Kate  Dodds           |                  |
-| Kaydence Kupfer   | Brooklyn Dodge        | **Bird Girls**   |
-| Damie Lefevre     | Austin Eddings        | Isabel Bryson    |
-| Sabrina Lunceford | Kirsti Holzer         | Savannah Hansen  |
-| Mina Marriott     | Harrison Howe         | Poppy Hatfield   |
-| Zuri Monson       | Louis Jackson         | Abby  Holzer     |
-| Tessa Morley      | Owen  Johnson         | Mae Johnson      |
-| Conner  Nelson    | Ian  Leishman         | Calamity McBride |
-| Amelia Olsen      | Lily  Olsen           | Gabby White      |
-| Lucy Pace         | Bea Richards          |                  |
-| Emma Pederson     |                       |                  |
-| Sam Richards      | **Stage Crew** |                  |
-| Scarlet Rupp      | Jack Beyer            |                  |
-| Aspen  Smith      | Max  Johnson          |                  |
-| Drew Terry        |                       |                  |
-| Leilani Walker    |                       |                  |
-| Seth Wright       |                       |                  |
+# Youtube Show links
+[Show #1](https://youtu.be/C-kFHX88Rhk)<br/>
+[Show #2](https://youtu.be/3_-Uxp4sZQg)
