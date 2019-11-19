@@ -18,8 +18,6 @@ title: Oak Hills Musical 2019-2020
 
 -----------
 
-<div class="audio-player" data-file="02 Circle of Life with Nants' Ingonyama.mp3" data-audition-start-at="80"></div>
-
 # Welcome!
 Parents- It is time for this years Lion King Jr.! We are so excited about this show and can not wait to start it! Thank you to those who attended the parent meeting. If you have lost your parent handout and or cast form we will provide a pdf down below. A new one can also be picked up in front of the main office. We have some important dates coming up. Friday Nov. 22nd- 5th and 6th grade lead auditions. Girls- 1:30-3:00pm. Boys- 3:00-4:30pm. Boys please arrive by 2:30pm. Reminder that all dress rehearsals are mandatory. If auditioning for a lead please be sure to check your conflicts for March 6th. Performances are March 9th-13th. Lead role's will be posted outside the front office Nov. 26th. Scripts will be picked up inside the office.
 
@@ -32,27 +30,35 @@ Parents- It is time for this years Lion King Jr.! We are so excited about this s
 # Audition Info
 Scar, Mufasa, young Simba, and old Simba will all be cast as boys. Nala, Lionesses, and Sarabi will be cast as girls. Timon, Pumbaa, Rafiki, Zazu, Shenzi, Banzai, and Ed can be cast as either boy or girl. You will find a pdf to each of the songs and lines for all the leads. We have also included a link to a youtube song queued where you need to start.
 
+### Nala, Lionesses, Sarabi- Shadowland
+[Nala, Lionesses, Sarabai PDF](/files/auditions/Nala-Lionesses-Sarabi.pdf)<br/>
+[Song](https://youtu.be/ujIXToNYWgY?t=81)
+
+<div class="audio-player" data-file="21 Shadowland.mp3" data-audition-start-at="80"></div>
+
 ### Rafiki- He Lives in You
 [Rafiki PDF](/files/auditions/Rafiki.pdf)<br/>
 [Song](https://youtu.be/HS-eC8hdeh4?t=82)
+
+<div class="audio-player" data-file="26 He Lives in You.mp3" data-audition-start-at="76"></div>
 
 ### Simba, Timon, Pumbaa- Hakuna Matata
 [Simba, Timon, Pumbaa PDF](/files/auditions/Simba-Timon-Pumbaa.pdf)<br/>
 [Song](https://youtu.be/6E2dYol_FjE?t=100)
 
+<div class="audio-player" data-file="11 Be Prepared.mp3" data-audition-start-at="23.5"></div>
+
 ### Scar and Mufasa- Be Prepared
 [Scar and Mufasa PDF](/files/auditions/Scar-Mufasa.pdf)<br/>
 [Song](https:youtu.be/891tW84MAjY?t=28)
+
+<div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3" data-audition-start-at="96"></div>
 
 ### Scar, Musfasa, Zazu- lines
 [Scar, Mufasa, Zazu PDF](/files/auditions/Scar-Zazu-Mufasa.pdf)<br/>
 
 ### Simba and Scar- lines
 [Simba and Scar PDF](/files/auditions/Simba-Scar.pdf)
-
-### Nala, Lionesses, Sarabi- Shadowland
-[Nala, Lionesses, Sarabai PDF](/files/auditions/Nala-Lionesses-Sarabi.pdf)<br/>
-[Song](https://youtu.be/ujIXToNYWgY?t=81)
 
 ### Shenzi, Banzai, Ed (Hyenas)- lines
 [Hyenas PDF](/files/auditions/Hyenas.pdf)
@@ -75,26 +81,35 @@ for (i=0; i < els.length; i++) {
   var auditionLink = document.createElement('a');
   auditionLink.innerHTML = 'Cue for Audition';
   auditionLink.onclick = function() {
-    var audioTag = this.parentNode.querySelector("audio:not([style='display:none'])");
-    audioTag.currentTime = this.parentNode.dataset.auditionStartAt;
+    var audioTag = Array.from(this.parentNode.getElementsByTagName('audio'));
+    var visible = audioTag.filter(function(tag) {
+      return tag.style.display != 'none';
+    })[0];
+    visible.currentTime = this.parentNode.dataset.auditionStartAt;
   }
 
   var audioTagA = document.createElement('audio');
   audioTagA.src = "/files/Guide Vocals/" + element.dataset.file;
   audioTagA.className = "vocals";
+  audioTagA.preload = 'metadata';
   audioTagA.controls = true;
 
   var audioTagB = document.createElement('audio');
   audioTagB.src = "/files/Performance Tracks/" + element.dataset.file;
   audioTagB.className = "performance";
+  audioTagB.preload = 'metadata';
   audioTagB.controls = true;
 
+  audioTagA.onplay = audioTagB.onplay = function() {
+    var other = this.parentNode.querySelector("audio:not(." + this.className +")");
+    if (other.paused)
+      other.play();
+  }
 
   var vocalsSelection = document.createElement('select');
   vocalsSelection.innerHTML = '<option value="vocals">With Vocals</option><option value="performance">No Vocals</option>'
 
   vocalsSelection.onchange = function() {
-    console.log(this.value);
     var toShow = this.parentNode.querySelector('audio.' + this.value);
     var toHide = this.parentNode.querySelector("audio:not(." + toShow.className +")");
 
