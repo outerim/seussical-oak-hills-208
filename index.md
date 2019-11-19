@@ -28,31 +28,23 @@ Parents- It is time for this years Lion King Jr.! We are so excited about this s
 [Parent Handout PDF](/files/Lion King Jr. Parent Handout.pdf)
 
 # Audition Info
-Scar, Mufasa, young Simba, and old Simba will all be cast as boys. Nala, Lionesses, and Sarabi will be cast as girls. Timon, Pumbaa, Rafiki, Zazu, Shenzi, Banzai, and Ed can be cast as either boy or girl. You will find a pdf to each of the songs and lines for all the leads. We have also included a link to a youtube song queued where you need to start.
+Scar, Mufasa, young Simba, and old Simba will all be cast as boys. Nala, Lionesses, and Sarabi will be cast as girls. Timon, Pumbaa, Rafiki, Zazu, Shenzi, Banzai, and Ed can be cast as either boy or girl. You will find a pdf to each of the songs and lines for all the leads. We have also included an audio track of each song. If you click on the "cue for audition" it will take you to the place you start the songs. There is an option to listen to it with the vocals or without (minus track). We encourage you to learn it with the vocal and then practice it without the vocals. All auditions will be done with the minus tracks.
 
 ### Nala, Lionesses, Sarabi- Shadowland
-[Nala, Lionesses, Sarabai PDF](/files/auditions/Nala-Lionesses-Sarabi.pdf)<br/>
-[Song](https://youtu.be/ujIXToNYWgY?t=81)
 
 <div class="audio-player" data-file="21 Shadowland.mp3" data-audition-start-at="80"></div>
 
 ### Rafiki- He Lives in You
-[Rafiki PDF](/files/auditions/Rafiki.pdf)<br/>
-[Song](https://youtu.be/HS-eC8hdeh4?t=82)
 
-<div class="audio-player" data-file="26 He Lives in You.mp3" data-audition-start-at="76"></div>
+<div class="audio-player" data-file="26 He Lives in You.mp3" data-audition-start-at="82.2"></div>
 
 ### Simba, Timon, Pumbaa- Hakuna Matata
-[Simba, Timon, Pumbaa PDF](/files/auditions/Simba-Timon-Pumbaa.pdf)<br/>
-[Song](https://youtu.be/6E2dYol_FjE?t=100)
 
-<div class="audio-player" data-file="11 Be Prepared.mp3" data-audition-start-at="23.5"></div>
+<div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3" data-audition-start-at="102"></div>
 
 ### Scar and Mufasa- Be Prepared
-[Scar and Mufasa PDF](/files/auditions/Scar-Mufasa.pdf)<br/>
-[Song](https:youtu.be/891tW84MAjY?t=28)
 
-<div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3" data-audition-start-at="96"></div>
+<div class="audio-player" data-file="11 Be Prepared.mp3" data-audition-start-at="29"></div>
 
 ### Scar, Musfasa, Zazu- lines
 [Scar, Mufasa, Zazu PDF](/files/auditions/Scar-Zazu-Mufasa.pdf)<br/>
