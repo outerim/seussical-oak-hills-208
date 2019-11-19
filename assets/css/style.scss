@@ -10,3 +10,18 @@
     margin-bottom: 0; }
   .main-content .updates h2 {
     margin-top: 1rem; }
+
+.audio-player {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.audio-player a {
+  display: block;
+  width: 100%;
+}
+
+.audio-player select {
+  margin-right: 8px;
+}
