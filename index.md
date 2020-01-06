@@ -18,20 +18,20 @@ title: Oak Hills Musical 2019-2020
 
 -----------
 
-# Welcome!
+## Welcome!
 Parents- It is time for this years Lion King Jr.! We are so excited about this show. Please remember to check the website and calendar weekly. We will keep everything updated as best we can with dates, times, and where your student will need to be for their rehearsals. Students have been assigned to either the Timon or Pumbaa Cast and a color coded ensemble. Your student(s) will either be in the Blue, Red, Orange or Green ensembles. We will specify which ensemble is needed when and where. We are also including the songs that each ensemble will be singing.
 
-# Lion King Cast Form
+## Lion King Cast Form
 [Cast Form PDF](/files/Lion King Cast Form.pdf)
 
-# Lion King Parent Handout
+## Lion King Parent Handout
 [Parent Handout PDF](/files/Lion King Jr. Parent Handout.pdf)
 
-# Cast Lists
+## Cast Lists
 
-## Timon cast
+### Timon cast
 
-### Leads
+#### Leads
 
 Name|Part
 -----|-----
@@ -54,7 +54,7 @@ Jayda Schow|Lioness
 Adelaide Stevenson|Lioness
 Evan Torkelson|Scar
 
-### Ensemble
+#### Ensemble
 
 Name|Part|Ensemble
 -----|-----|-----
@@ -95,9 +95,9 @@ Mason Stewart|Animal|Green
 Matthew Young|Animal|Orange
 Sadie Young|Animal|Orange
 
-## Pumbaa cast
+### Pumbaa cast
 
-### Leads
+#### Leads
 
 Name|Part
 -----|-----
@@ -120,7 +120,7 @@ Daxton Wilson|Mufasa
 Luke Wright|Zazu
 Alayna Yoho|Young Nala
 
-### Ensemble
+#### Ensemble
 
 Name|Part|Ensemble
 -----|-----|-----
@@ -163,6 +163,8 @@ Leilani Walker|Animal|Orange
 Emily Wellard|Animal|Green
 Seth Wright|Animal|Green
 
+## Songs
+
 ### Everyone
 The Circle of Life
 <div class="audio-player" data-file="02 Circle of Life with Nants' Ingonyama.mp3"></div>
@@ -173,7 +175,7 @@ Finale
 Bows
 <div class="audio-player" data-file="32 Bows.mp3"></div>
 
-### Red Ensemble
+<h3 style="color:red">Red Ensemble</h3>
 The Lioness Hunt
 <div class="audio-player" data-file="07 The Lioness Hunt.mp3"></div>
 The Mourning
@@ -181,7 +183,7 @@ The Mourning
 Shadowland
 <div class="audio-player" data-file="21 Shadowland.mp3"></div>
 
-### Blue Ensemble
+<h3 style="color:blue">Blue Ensemble</h3>
 Be Prepared
 <div class="audio-player" data-file="11 Be Prepared.mp3"></div>
 The Stampede
@@ -189,7 +191,7 @@ The Stampede
 The Mourning
 <div class="audio-player" data-file="16 The Mourning.mp3"></div>
 
-### Orange Ensemble
+<h3 style="color:orange">Orange Ensemble</h3>
 Hakuna Matata
 <div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3">Part 1</div>
 <div class="audio-player" data-file="19 Hakuna Matata (Part 2).mp3">Part 2</div>
@@ -198,7 +200,7 @@ Grassland Chant
 The Stampede
 <div class="audio-player" data-file="15 The Stampede.mp3"></div>
 
-### Green Ensemble
+<h3 style="color:green">Green Ensemble</h3>
 I Just Can't Wait to Be King
 <div class="audio-player" data-file="08 I Just Can't Wait to Be King.mp3"></div>
 They Live in You
@@ -208,7 +210,7 @@ He Lives in You
 
 
 
-# Youtube Show links
+## Youtube Show links
 [Show #1](https://youtu.be/C-kFHX88Rhk)<br/>
 [Show #2](https://youtu.be/3_-Uxp4sZQg)
 
