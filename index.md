@@ -5,7 +5,7 @@ title: Oak Hills Musical 2019-2020
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday Jan. 5, 2020
+## Monday Jan. 6, 2020
 * Updated welcome
 * Lion King Cast form
 * Lion King Parent Handout
@@ -19,7 +19,7 @@ title: Oak Hills Musical 2019-2020
 -----------
 
 ## Welcome!
-Parents- It is time for this years Lion King Jr.! We are so excited about this show. Please remember to check the website and calendar weekly. We will keep everything updated as best we can with dates, times, and where your student will need to be for their rehearsals. Students have been assigned to either the Timon or Pumbaa Cast and a color coded ensemble. Your student(s) will either be in the Blue, Red, Orange or Green ensembles. We will specify which ensemble is needed when and where. Below you will find audio players for all leads and ensemble songs. Please have your students practice with the vocals on as they learn them. Once they know the songs choose no vocals and continue to practice. The more they can practice at home the better off the group is as a whole. Thank you for your support!
+Parents- We are so excited about Lion King Jr. and can not wait to start! Please remember to check the website and calendar at the top of the page weekly. We will keep everything updated as best we can with dates, times, and where your student will need to be for their rehearsals. Students have been assigned to either the Timon or Pumbaa Cast and a color coded ensemble. Your student(s) will either be in the Blue, Red, Orange, or Green ensembles (minus some leads). We will specify which ensemble is needed when and where. The calendar is up to date for this week please check it! Below you will find audio players for all leads and ensemble songs. Please have your students practice with the vocals on as they are learning. Once they know the songs choose no vocals and continue to practice. Practicing with out the vocals is very important once they have reached that point. The more they can practice at home the better off the group is as a whole. Thank you for your support!
 
 ## Lion King Cast Form
 [Cast Form PDF](/files/Lion King Cast Form.pdf)
@@ -36,11 +36,13 @@ Parents- It is time for this years Lion King Jr.! We are so excited about this s
 Name|Part
 -----|-----
 Dane Anderson|Older Simba
+Colby Anthon|Lioness
 Abby Bagley|Lioness
 Isabella Beck|Zazu
 Samantha Campbell|Young Nala
 Addi Cook|Shenzi
 Nate Dellenbach|Young Simba
+McKinley Duryea|Older Nala
 Reagan Duryea|Pumbaa
 Elizabeth Geilman|Lioness
 Samantha Godfrey|Rafiki
@@ -73,7 +75,9 @@ Kylie Goodell|Stage crew|
 Matthew Hess|Animal|Green
 Mabel Hutchings|Animal|Orange
 Peter Hutchings|Animal|Orange
+Audrey Jensen|Animal|Orange
 Ella Jensen|Animal|Green
+Elin Johanson|Animal|Green
 Amelia Johnson|Animal|Orange
 Kove Larsen|Animal|Green
 Kylie Larsen|Hyena|Blue
@@ -91,6 +95,7 @@ Ivy Pace|Animal|Green
 Lucy Pace|Animal|Green
 Casey Randall|Hyena|Blue
 Kaitlin Robert|Hyena|Blue
+Izzy Smoot|Animal|Orange
 Mason Stewart|Animal|Green
 Matthew Young|Animal|Orange
 Sadie Young|Animal|Orange
@@ -111,9 +116,11 @@ Jorja Hone|Lioness
 Sabrina Layne|Sarafina
 Porter Murdock|Timon
 Lily Olson|Lioness
+Mac Pickett|Pumbaa
 Bea Richards|Sarabi
 Jack Rose|Scar
 Saphirah Simmons|Older Nala
+Caleb Taylor|Ed
 Carter Terry|Older Simba
 Afton Vail|Lioness
 Daxton Wilson|Mufasa
@@ -132,6 +139,8 @@ Lily Bremner|Hyena|Blue
 Chloe Bryson|Stage crew|
 Kylee Corbett|Hyena|Blue
 Henry Cottam|Animal|Green
+Claire Dodds|Stage Crew
+Kate Dodds|Hyena|Blue
 Brooklyn Dodge|Hyena|Blue
 Heidi Ence|Animal|Orange
 Max Ence|Hyena|Blue
@@ -151,6 +160,7 @@ Mina Marriot|Animal|Green
 Zuri Monson|Animal|Orange
 Amelia Olson|Animal|Green
 Sam Richards|Animal|Orange
+Scarlet Rupp|Animail|Green
 Max Rose|Animal|Orange
 Aspen Smith|Animal|Orange
 Reed Stevens|Stage crew|
@@ -162,10 +172,11 @@ Jeffery Thiriot|Animal|Green
 Leilani Walker|Animal|Orange
 Emily Wellard|Animal|Green
 Seth Wright|Animal|Green
+Chuck Yates|Animal|Green
 
 ## Songs
 
-### Everyone
+<h3 style="color:#B404AE">Everyone</h3>
 The Circle of Life
 <div class="audio-player" data-file="02 Circle of Life with Nants' Ingonyama.mp3"></div>
 Can Your Feel the Love Tonight
