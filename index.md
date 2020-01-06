@@ -33,27 +33,27 @@ Parents- We are so excited about Lion King Jr. and can not wait to start! Please
 
 #### Leads
 
-Name|Part
+Name|Part|Ensemble
 -----|-----
 Dane Anderson|Older Simba
-Colby Anthon|Lioness
-Abby Bagley|Lioness
+Colby Anthon|Lioness|Red
+Abby Bagley|Lioness|Red
 Isabella Beck|Zazu
 Samantha Campbell|Young Nala
 Addi Cook|Shenzi
 Nate Dellenbach|Young Simba
 McKinley Duryea|Older Nala
 Reagan Duryea|Pumbaa
-Elizabeth Geilman|Lioness
+Elizabeth Geilman|Lioness|Red
 Samantha Godfrey|Rafiki
 Thomas Hess|Ed
-Samantha Jensen|Sarafina
+Samantha Jensen|Sarafina|Red
 Megan Lechtenberg|Banzai
 Ben Liljenquist|Mufasa
-Penny Pilkington|Sarabi
+Penny Pilkington|Sarabi|Red
 Lincoln Pykles|Timon
-Jayda Schow|Lioness
-Adelaide Stevenson|Lioness
+Jayda Schow|Lioness|Red
+Adelaide Stevenson|Lioness|Red
 Evan Torkelson|Scar
 
 #### Ensemble
@@ -104,25 +104,25 @@ Sadie Young|Animal|Orange
 
 #### Leads
 
-Name|Part
+Name|Part|Ensemble
 -----|-----
-Kymber Best|Lioness
+Kymber Best|Lioness|Red
 Henry Brown|Young Simba
 McKenna Cone|Shenzi
 Mathilda Cottam|Rafiki
 Samuel Frei|Banzai
-Kirsti Holzer|Lioness
-Jorja Hone|Lioness
-Sabrina Layne|Sarafina
+Kirsti Holzer|Lioness|Red
+Jorja Hone|Lioness|Red
+Sabrina Layne|Sarafina|Red
 Porter Murdock|Timon
-Lily Olson|Lioness
+Lily Olson|Lioness|Red
 Mac Pickett|Pumbaa
-Bea Richards|Sarabi
+Bea Richards|Sarabi|Red
 Jack Rose|Scar
 Saphirah Simmons|Older Nala
 Caleb Taylor|Ed
 Carter Terry|Older Simba
-Afton Vail|Lioness
+Afton Vail|Lioness|Red
 Daxton Wilson|Mufasa
 Luke Wright|Zazu
 Alayna Yoho|Young Nala
