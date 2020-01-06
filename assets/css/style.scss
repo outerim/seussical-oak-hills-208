@@ -23,5 +23,14 @@
 }
 
 .audio-player select {
-  margin-right: 8px;
+  margin: 0 .4rem;
+
+}
+
+.main-content table th, .main-content table td {
+  padding: .1rem .75rem;
+}
+
+.main-content tbody {
+  font-size: .9rem;
 }

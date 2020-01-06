@@ -5,12 +5,12 @@ title: Oak Hills Musical 2019-2020
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday Nov. 17th 2019
+## Sunday Jan. 5, 2020
 * Updated welcome
 * Lion King Cast form
 * Lion King Parent Handout
-* Audition Info
-* Youtube links to show
+* Cast and Ensemble Lists
+* Music files
 * Updated calendar
 
 
@@ -19,7 +19,7 @@ title: Oak Hills Musical 2019-2020
 -----------
 
 # Welcome!
-Parents- It is time for this years Lion King Jr.! We are so excited about this show and can not wait to start it! Thank you to those who attended the parent meeting. If you have lost your parent handout and or cast form we will provide a pdf down below. A new one can also be picked up in front of the main office. We have some important dates coming up. Friday Nov. 22nd- 5th and 6th grade lead auditions. Girls- 1:30-3:00pm. Boys- 3:00-4:30pm. Boys please arrive by 2:30pm. Reminder that all dress rehearsals are mandatory. If auditioning for a lead please be sure to check your conflicts for March 6th. Performances are March 9th-13th. Lead role's will be posted outside the front office Nov. 26th. Scripts will be picked up inside the office.
+Parents- It is time for this years Lion King Jr.! We are so excited about this show. Please remember to check the website and calendar weekly. We will keep everything updated as best we can with dates, times, and where your student will need to be for their rehearsals. Students have been assigned to either the Timon or Pumbaa Cast and a color coded ensemble. Your student(s) will either be in the Blue, Red, Orange or Green ensembles. We will specify which ensemble is needed when and where. We are also including the songs that each ensemble will be singing.
 
 # Lion King Cast Form
 [Cast Form PDF](/files/Lion King Cast Form.pdf)
@@ -27,33 +27,185 @@ Parents- It is time for this years Lion King Jr.! We are so excited about this s
 # Lion King Parent Handout
 [Parent Handout PDF](/files/Lion King Jr. Parent Handout.pdf)
 
-# Audition Info
-Scar, Mufasa, young Simba, and old Simba will all be cast as boys. Nala, Lionesses, and Sarabi will be cast as girls. Timon, Pumbaa, Rafiki, Zazu, Shenzi, Banzai, and Ed can be cast as either boy or girl. You will find a pdf to each of the songs and lines for all the leads. We have also included an audio track of each song. If you click on the "cue for audition" it will take you to the place you start the songs. There is an option to listen to it with the vocals or without (minus track). We encourage you to learn it with the vocal and then practice it without the vocals. All auditions will be done with the minus tracks.
+# Cast Lists
 
-### Nala, Lionesses, Sarabi- Shadowland
-[Nala, Lionesses, Sarabai PDF](/files/auditions/Nala-Lionesses-Sarabi.pdf)<br/>
-<div class="audio-player" data-file="21 Shadowland.mp3" data-audition-start-at="80"></div>
+## Timon cast
 
-### Rafiki- He Lives in You
-[Rafiki PDF](/files/auditions/Rafiki.pdf)<br/>
-<div class="audio-player" data-file="26 He Lives in You.mp3" data-audition-start-at="82.2"></div>
+### Leads
 
-### Simba, Timon, Pumbaa- Hakuna Matata
-[Simba, Timon, Pumbaa PDF](/files/auditions/Simba-Timon-Pumbaa.pdf)<br/>
-<div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3" data-audition-start-at="102"></div>
+Name|Part
+-----|-----
+Dane Anderson|Older Simba
+Abby Bagley|Lioness
+Isabella Beck|Zazu
+Samantha Campbell|Young Nala
+Addi Cook|Shenzi
+Nate Dellenbach|Young Simba
+Reagan Duryea|Pumbaa
+Elizabeth Geilman|Lioness
+Samantha Godfrey|Rafiki
+Thomas Hess|Ed
+Samantha Jensen|Sarafina
+Megan Lechtenberg|Banzai
+Ben Liljenquist|Mufasa
+Penny Pilkington|Sarabi
+Lincoln Pykles|Timon
+Jayda Schow|Lioness
+Adelaide Stevenson|Lioness
+Evan Torkelson|Scar
 
-### Scar and Mufasa- Be Prepared
-[Scar and Mufasa PDF](/files/auditions/Scar-Mufasa.pdf)<br/>
-<div class="audio-player" data-file="11 Be Prepared.mp3" data-audition-start-at="29"></div>
+### Ensemble
 
-### Scar, Musfasa, Zazu- lines
-[Scar, Mufasa, Zazu PDF](/files/auditions/Scar-Zazu-Mufasa.pdf)<br/>
+Name|Part|Ensemble
+-----|-----|-----
+Grant Adair|Animal|Orange
+Elijah Adams|Hyena|Blue
+Campbell Anderson|Animal|Green
+Sage Anderson|Animal|Green
+Ben Bagley|Animal|Orange
+Lindsey Bleazard|Animal|Green
+Ryan Bleazard|Stage crew|
+Bridger Bronson|Hyena|Blue
+Trinton Christensen|Hyena|Blue
+Emma Dellenbach|Animal|Green
+Amelia Geilman|Hyena|Blue
+Kylie Goodell|Stage crew|
+Matthew Hess|Animal|Green
+Mabel Hutchings|Animal|Orange
+Peter Hutchings|Animal|Orange
+Ella Jensen|Animal|Green
+Amelia Johnson|Animal|Orange
+Kove Larsen|Animal|Green
+Kylie Larsen|Hyena|Blue
+Eden Liljenquist|Hyena|Blue
+Amelia Lyman|Animal|Orange
+Ammon Madsen|Animal|Orange
+Jane Meidell|Hyena|Blue
+Liesel Mickelson|Animal|Orange
+Nels Mickelson|Animal|Orange
+Lucas Morrow|Animal|Green
+Mathias Morrow|Animal|Green
+Sophia Morrow|Hyena|Blue
+Blakely Nelsin|Animal|Orange
+Ivy Pace|Animal|Green
+Lucy Pace|Animal|Green
+Casey Randall|Hyena|Blue
+Kaitlin Robert|Hyena|Blue
+Mason Stewart|Animal|Green
+Matthew Young|Animal|Orange
+Sadie Young|Animal|Orange
 
-### Simba and Scar- lines
-[Simba and Scar PDF](/files/auditions/Simba-Scar.pdf)
+## Pumbaa cast
 
-### Shenzi, Banzai, Ed (Hyenas)- lines
-[Hyenas PDF](/files/auditions/Hyenas.pdf)
+### Leads
+
+Name|Part
+-----|-----
+Kymber Best|Lioness
+Henry Brown|Young Simba
+McKenna Cone|Shenzi
+Mathilda Cottam|Rafiki
+Samuel Frei|Banzai
+Kirsti Holzer|Lioness
+Jorja Hone|Lioness
+Sabrina Layne|Sarafina
+Porter Murdock|Timon
+Lily Olson|Lioness
+Bea Richards|Sarabi
+Jack Rose|Scar
+Saphirah Simmons|Older Nala
+Carter Terry|Older Simba
+Afton Vail|Lioness
+Daxton Wilson|Mufasa
+Luke Wright|Zazu
+Alayna Yoho|Young Nala
+
+### Ensemble
+
+Name|Part|Ensemble
+-----|-----|-----
+William Barker|Hyena|Blue
+Sailor Beyer|Hyena|Blue
+Greyson Birchard|Animal|Green
+Simon Brady|Animal|Green
+Lily Bremner|Hyena|Blue
+Chloe Bryson|Stage crew|
+Kylee Corbett|Hyena|Blue
+Henry Cottam|Animal|Green
+Brooklyn Dodge|Hyena|Blue
+Heidi Ence|Animal|Orange
+Max Ence|Hyena|Blue
+Lena Frei|Animal|Green
+Logan Fuller|Hyena|Blue
+Beck Green|Animal|Orange
+Brinley Green|Hyena|Blue
+Corbin Heath|Animal|Green
+Markus Holzer|Animal|Orange
+Ava Howe|Animal|Green
+Layla Jewkes|Animal|Orange
+Kaydence Kupfer|Animal|Green
+Damie LeFever|Animal|Orange
+Sabrina Lunceford|Animal|Orange
+Molly Lynn|Animal|Orange
+Mina Marriot|Animal|Green
+Zuri Monson|Animal|Orange
+Amelia Olson|Animal|Green
+Sam Richards|Animal|Orange
+Max Rose|Animal|Orange
+Aspen Smith|Animal|Orange
+Reed Stevens|Stage crew|
+Audri Terry|Animal|Green
+Ara Terry|Hyena|Blue
+Beck Terry|Animal|Orange
+Drew Terry|Animal|Orange
+Jeffery Thiriot|Animal|Green
+Leilani Walker|Animal|Orange
+Emily Wellard|Animal|Green
+Seth Wright|Animal|Green
+
+### Everyone
+The Circle of Life
+<div class="audio-player" data-file="02 Circle of Life with Nants' Ingonyama.mp3"></div>
+Can Your Feel the Love Tonight
+<div class="audio-player" data-file="25 Can You Feel the Love Tonight.mp3"></div>
+Finale
+<div class="audio-player" data-file="31 Finale.mp3"></div>
+Bows
+<div class="audio-player" data-file="32 Bows.mp3"></div>
+
+### Red Ensemble
+The Lioness Hunt
+<div class="audio-player" data-file="07 The Lioness Hunt.mp3"></div>
+The Mourning
+<div class="audio-player" data-file="16 The Mourning.mp3"></div>
+Shadowland
+<div class="audio-player" data-file="21 Shadowland.mp3"></div>
+
+### Blue Ensemble
+Be Prepared
+<div class="audio-player" data-file="11 Be Prepared.mp3"></div>
+The Stampede
+<div class="audio-player" data-file="15 The Stampede.mp3"></div>
+The Mourning
+<div class="audio-player" data-file="16 The Mourning.mp3"></div>
+
+### Orange Ensemble
+Hakuna Matata
+<div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3">Part 1</div>
+<div class="audio-player" data-file="19 Hakuna Matata (Part 2).mp3">Part 2</div>
+Grassland Chant
+<div class="audio-player" data-file="04 Grasslands Chant.mp3"></div>
+The Stampede
+<div class="audio-player" data-file="15 The Stampede.mp3"></div>
+
+### Green Ensemble
+I Just Can't Wait to Be King
+<div class="audio-player" data-file="08 I Just Can't Wait to Be King.mp3"></div>
+They Live in You
+<div class="audio-player" data-file="13 They Live in You.mp3"></div>
+He Lives in You
+<div class="audio-player" data-file="26 He Lives in You.mp3"></div>
+
 
 
 # Youtube Show links
@@ -117,7 +269,9 @@ for (i=0; i < els.length; i++) {
   }
 
 
-  element.appendChild(auditionLink);
+  if (element.dataset.auditionStartAt) {
+    element.appendChild(auditionLink);
+  }
   element.appendChild(vocalsSelection);
   element.appendChild(audioTagA);
   element.appendChild(audioTagB);
