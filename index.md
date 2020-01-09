@@ -5,7 +5,7 @@ title: Oak Hills Musical 2019-2020
 <div class="updates" markdown="1">
 
 # Updates
-## Monday Jan. 6, 2020
+## Wednesday Jan. 8, 2020
 * Updated welcome
 * Lion King Cast form
 * Lion King Parent Handout
@@ -69,6 +69,7 @@ Lindsey Bleazard|Animal|Green
 Ryan Bleazard|Stage crew|
 Bridger Bronson|Hyena|Blue
 Trinton Christensen|Hyena|Blue
+Davis Duke|Animal|Green
 Emma Dellenbach|Animal|Green
 Amelia Geilman|Hyena|Blue
 Kylie Goodell|Stage crew|
@@ -88,7 +89,7 @@ Jane Meidell|Hyena|Blue
 Liesel Mickelson|Animal|Orange
 Nels Mickelson|Animal|Orange
 Lucas Morrow|Animal|Green
-Mathias Morrow|Animal|Green
+Mathias Morrow|Animal|Orange
 Sophia Morrow|Hyena|Blue
 Blakely Nelsin|Animal|Orange
 Ivy Pace|Animal|Green
@@ -97,6 +98,8 @@ Casey Randall|Hyena|Blue
 Kaitlin Robert|Hyena|Blue
 Izzy Smoot|Animal|Orange
 Mason Stewart|Animal|Green
+Aaron Tibbitts|Animal|green
+Brandon Tibbitts|Animal|Green
 Matthew Young|Animal|Orange
 Sadie Young|Animal|Orange
 
@@ -164,6 +167,7 @@ Scarlet Rupp|Animail|Green
 Max Rose|Animal|Orange
 Aspen Smith|Animal|Orange
 Reed Stevens|Stage crew|
+Leah Taylor|Animal|Orange
 Audri Terry|Animal|Green
 Ara Terry|Hyena|Blue
 Beck Terry|Animal|Orange
@@ -201,6 +205,9 @@ The Stampede
 <div class="audio-player" data-file="15 The Stampede.mp3"></div>
 The Mourning
 <div class="audio-player" data-file="16 The Mourning.mp3"></div>
+Hakuna Matata
+<div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3">Part 1</div>
+<div class="audio-player" data-file="19 Hakuna Matata (Part 2).mp3">Part 2</div>
 
 <h3 style="color:orange">Orange Ensemble</h3>
 Hakuna Matata
