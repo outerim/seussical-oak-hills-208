@@ -65,6 +65,7 @@ Elijah Adams|Hyena|Blue
 Campbell Anderson|Animal|Green
 Sage Anderson|Animal|Green
 Ben Bagley|Animal|Orange
+Greyson Birchard|Animal|Green
 Lindsey Bleazard|Animal|Green
 Ryan Bleazard|Stage crew|
 Bridger Bronson|Hyena|Blue
@@ -136,7 +137,6 @@ Name|Part|Ensemble
 -----|-----|-----
 William Barker|Hyena|Blue
 Sailor Beyer|Hyena|Blue
-Greyson Birchard|Animal|Green
 Simon Brady|Animal|Green
 Lily Bremner|Hyena|Blue
 Chloe Bryson|Stage crew|
