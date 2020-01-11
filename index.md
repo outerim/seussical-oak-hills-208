@@ -5,27 +5,21 @@ title: Oak Hills Musical 2019-2020
 <div class="updates" markdown="1">
 
 # Updates
-## Wednesday Jan. 8, 2020
+## Saturday Jan. 11, 2020
 * Updated welcome
-* Lion King Cast form
-* Lion King Parent Handout
 * Cast and Ensemble Lists
 * Music files
 * Updated calendar
-
+* Lion King Cast form
+* Lion King Parent Handout
 
 </div>
 
 -----------
 
 ## Welcome!
-Parents- We are so excited about Lion King Jr. and can not wait to start! Please remember to check the website and calendar at the top of the page weekly. We will keep everything updated as best we can with dates, times, and where your student will need to be for their rehearsals. Students have been assigned to either the Timon or Pumbaa Cast and a color coded ensemble. Your student(s) will either be in the Blue, Red, Orange, or Green ensembles (minus some leads). We will specify which ensemble is needed when and where. The calendar is up to date for this week please check it! Below you will find audio players for all leads and ensemble songs. Please have your students practice with the vocals on as they are learning. Once they know the songs choose no vocals and continue to practice. Practicing with out the vocals is very important once they have reached that point. The more they can practice at home the better off the group is as a whole. Thank you for your support!
-
-## Lion King Cast Form
-[Cast Form PDF](/files/Lion King Cast Form.pdf)
-
-## Lion King Parent Handout
-[Parent Handout PDF](/files/Lion King Jr. Parent Handout.pdf)
+Parents- We are already off to a great start. We had very successful practices last week and the kids are picking up the African language very quickly. Please continue to practice at home. Lionesses (Red ensemble) have been added to the Grasslands chant. Blue ensemble is now part of Hakuna Matata. Song lists has been updated for practicing.
+The calendar can be found above in the blue bar. When you open the calendar you will see the dates and times ensembles are needed. Please click onto the time and it will show the complete list of who is needed, time they are needed, and where they will have rehearsal (gym, portable, or library). In the details it lists what they will be working on.  
 
 ## Cast Lists
 
@@ -101,6 +95,7 @@ Izzy Smoot|Animal|Orange
 Mason Stewart|Animal|Green
 Aaron Tibbitts|Animal|green
 Brandon Tibbitts|Animal|Green
+Millicent Trevino|Stage Crew
 Matthew Young|Animal|Orange
 Sadie Young|Animal|Orange
 
@@ -197,6 +192,9 @@ The Mourning
 <div class="audio-player" data-file="16 The Mourning.mp3"></div>
 Shadowland
 <div class="audio-player" data-file="21 Shadowland.mp3"></div>
+Grassland Chant
+<div class="audio-player" data-file="04 Grasslands Chant.mp3"></div>
+
 
 <h3 style="color:blue">Blue Ensemble</h3>
 Be Prepared
@@ -311,12 +309,15 @@ I Just Can't Wait to Be King
 <div class="audio-player" data-file="08 I Just Can't Wait to Be King.mp3"></div>
 
 
-
-
 ## Youtube Show links
 [Show #1](https://youtu.be/C-kFHX88Rhk)<br/>
 [Show #2](https://youtu.be/3_-Uxp4sZQg)
 
+## Lion King Cast Form
+[Cast Form PDF](/files/Lion King Cast Form.pdf)
+
+## Lion King Parent Handout
+[Parent Handout PDF](/files/Lion King Jr. Parent Handout.pdf)
 
 
 
