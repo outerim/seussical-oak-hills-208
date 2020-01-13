@@ -5,7 +5,7 @@ title: Oak Hills Musical 2019-2020
 <div class="updates" markdown="1">
 
 # Updates
-## Saturday Jan. 11, 2020
+## Sunday Jan. 12, 2020
 * Updated welcome
 * Cast and Ensemble Lists
 * Music files
@@ -268,6 +268,8 @@ I Just Can't Wait to Be King
 <div class="audio-player" data-file="08 I Just Can't Wait to Be King.mp3"></div>
 The Mourning
 <div class="audio-player" data-file="16 The Mourning.mp3"></div>
+Grassland Chant
+<div class="audio-player" data-file="04 Grasslands Chant.mp3"></div>
 
 <h3 style="color:purple">Older Nala</h3>
 Shadowland
@@ -276,12 +278,23 @@ Return to the Pridelands
 <div class="audio-player" data-file="27 Return to the Pridelands.mp3"></div>
 Scar's Last Stand
 <div class="audio-player" data-file="29 Scar's Last Stand (Part 1).mp3">Part 1</div>
+Grassland Chant
+<div class="audio-player" data-file="04 Grasslands Chant.mp3"></div>
+The Lioness Hunt
+<div class="audio-player" data-file="07 The Lioness Hunt.mp3"></div>
 
 <h3 style="color:purple">Sarabi</h3>
+Grassland Chant
+<div class="audio-player" data-file="04 Grasslands Chant.mp3"></div>
+The Lioness Hunt
+<div class="audio-player" data-file="07 The Lioness Hunt.mp3"></div>
 The Mourning
 <div class="audio-player" data-file="16 The Mourning.mp3"></div>
+Shadowland
+<div class="audio-player" data-file="21 Shadowland.mp3"></div>
 Scar's Last Stand
 <div class="audio-player" data-file="29 Scar's Last Stand (Part 1).mp3">Part 1</div>
+
 
 <h3 style="color:#DF0174">Rafiki</h3>
 The Circle of Life
