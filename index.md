@@ -61,10 +61,11 @@ Sage Anderson|Animal|Green
 Ben Bagley|Animal|Orange
 Greyson Birchard|Animal|Green
 Lindsey Bleazard|Animal|Green
+Luke Bleazard|Animal|Green
 Ryan Bleazard|Stage crew|
 Bridger Bronson|Hyena|Blue
 Trinton Christensen|Hyena|Blue
-Davis Duke|Animal|Green
+Davis Duke|Animal|Orange
 Emma Dellenbach|Animal|Green
 Amelia Geilman|Hyena|Blue
 Kylie Goodell|Stage crew|
