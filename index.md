@@ -5,10 +5,9 @@ title: Oak Hills Musical 2019-2020
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday Jan. 12, 2020
+## Sunday Jan. 19, 2020
 * Updated welcome
 * Cast and Ensemble Lists
-* Music files
 * Updated calendar
 * Lion King Cast form
 * Lion King Parent Handout
@@ -174,154 +173,6 @@ Emily Wellard|Animal|Green
 Seth Wright|Animal|Green
 Chuck Yates|Animal|Green
 
-## Songs
-
-<h3 style="color:#B404AE">Everyone</h3>
-The Circle of Life
-<div class="audio-player" data-file="02 Circle of Life with Nants' Ingonyama.mp3"></div>
-Can Your Feel the Love Tonight
-<div class="audio-player" data-file="25 Can You Feel the Love Tonight.mp3"></div>
-Finale
-<div class="audio-player" data-file="31 Finale.mp3"></div>
-Bows
-<div class="audio-player" data-file="32 Bows.mp3"></div>
-
-<h3 style="color:red">Red Ensemble</h3>
-The Lioness Hunt
-<div class="audio-player" data-file="07 The Lioness Hunt.mp3"></div>
-The Mourning
-<div class="audio-player" data-file="16 The Mourning.mp3"></div>
-Shadowland
-<div class="audio-player" data-file="21 Shadowland.mp3"></div>
-Grassland Chant
-<div class="audio-player" data-file="04 Grasslands Chant.mp3"></div>
-
-
-<h3 style="color:blue">Blue Ensemble</h3>
-Be Prepared
-<div class="audio-player" data-file="11 Be Prepared.mp3"></div>
-The Stampede
-<div class="audio-player" data-file="15 The Stampede.mp3"></div>
-The Mourning
-<div class="audio-player" data-file="16 The Mourning.mp3"></div>
-Hakuna Matata
-<div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3">Part 1</div>
-<div class="audio-player" data-file="19 Hakuna Matata (Part 2).mp3">Part 2</div>
-
-<h3 style="color:orange">Orange Ensemble</h3>
-Hakuna Matata
-<div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3">Part 1</div>
-<div class="audio-player" data-file="19 Hakuna Matata (Part 2).mp3">Part 2</div>
-Grassland Chant
-<div class="audio-player" data-file="04 Grasslands Chant.mp3"></div>
-The Stampede
-<div class="audio-player" data-file="15 The Stampede.mp3"></div>
-
-<h3 style="color:green">Green Ensemble</h3>
-I Just Can't Wait to Be King
-<div class="audio-player" data-file="08 I Just Can't Wait to Be King.mp3"></div>
-They Live in You
-<div class="audio-player" data-file="13 They Live in You.mp3"></div>
-He Lives in You
-<div class="audio-player" data-file="26 He Lives in You.mp3"></div>
-
-<h3 style="color:brown">Young Simba</h3>
-I Just Can't Wait to Be King
-<div class="audio-player" data-file="08 I Just Can't Wait to Be King.mp3"></div>
-Hakuna Matata
-<div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3">Part 1</div>
-<div class="audio-player" data-file="19 Hakuna Matata (Part 2).mp3">Part 2</div>
-
-<h3 style="color:brown">Older Simba</h3>
-Hakuna Matata
-<div class="audio-player" data-file="19 Hakuna Matata (Part 2).mp3">Part 2</div>
-Under the Stars
-<div class="audio-player" data-file="23 Under the Stars.mp3"></div>
-He Lives in You
-<div class="audio-player" data-file="26 He Lives in You.mp3"></div>
-Return to the Pridelands
-<div class="audio-player" data-file="27 Return to the Pridelands.mp3"></div>
-Scar's Last Stand
-<div class="audio-player" data-file="29 Scar's Last Stand (Part 1).mp3">Part 1</div>
-<div class="audio-player" data-file="30 Scar's Last Stand (Part 2).mp3">Part 2</div>
-
-<h3 style="color:brown">Mufasa</h3>
-They Live in You
-<div class="audio-player" data-file="13 They Live in You.mp3"></div>
-The Stampede
-<div class="audio-player" data-file="15 The Stampede.mp3"></div>
-He Lives in You
-<div class="audio-player" data-file="26 He Lives in You.mp3"></div>
-
-<h3 style="color:brown">Scar</h3>
-Be Prepared
-<div class="audio-player" data-file="11 Be Prepared.mp3"></div>
-The Stampede
-<div class="audio-player" data-file="15 The Stampede.mp3"></div>
-The Mourning
-<div class="audio-player" data-file="16 The Mourning.mp3"></div>
-Scar's Last Stand
-<div class="audio-player" data-file="29 Scar's Last Stand (Part 1).mp3">Part 1</div>
-<div class="audio-player" data-file="30 Scar's Last Stand (Part 2).mp3">Part 2</div>
-
-<h3 style="color:purple">Young Nala</h3>
-I Just Can't Wait to Be King
-<div class="audio-player" data-file="08 I Just Can't Wait to Be King.mp3"></div>
-The Mourning
-<div class="audio-player" data-file="16 The Mourning.mp3"></div>
-Grassland Chant
-<div class="audio-player" data-file="04 Grasslands Chant.mp3"></div>
-
-<h3 style="color:purple">Older Nala</h3>
-Shadowland
-<div class="audio-player" data-file="21 Shadowland.mp3"></div>
-Return to the Pridelands
-<div class="audio-player" data-file="27 Return to the Pridelands.mp3"></div>
-Scar's Last Stand
-<div class="audio-player" data-file="29 Scar's Last Stand (Part 1).mp3">Part 1</div>
-Grassland Chant
-<div class="audio-player" data-file="04 Grasslands Chant.mp3"></div>
-The Lioness Hunt
-<div class="audio-player" data-file="07 The Lioness Hunt.mp3"></div>
-
-<h3 style="color:purple">Sarabi</h3>
-Grassland Chant
-<div class="audio-player" data-file="04 Grasslands Chant.mp3"></div>
-The Lioness Hunt
-<div class="audio-player" data-file="07 The Lioness Hunt.mp3"></div>
-The Mourning
-<div class="audio-player" data-file="16 The Mourning.mp3"></div>
-Shadowland
-<div class="audio-player" data-file="21 Shadowland.mp3"></div>
-Scar's Last Stand
-<div class="audio-player" data-file="29 Scar's Last Stand (Part 1).mp3">Part 1</div>
-
-
-<h3 style="color:#DF0174">Rafiki</h3>
-The Circle of Life
-<div class="audio-player" data-file="02 Circle of Life with Nants' Ingonyama.mp3"></div>
-Shadowland
-<div class="audio-player" data-file="21 Shadowland.mp3"></div>
-He Lives in You
-<div class="audio-player" data-file="26 He Lives in You.mp3"></div>
-
-<h3 style="color:#DF0174">Timon & Pumbaa</h3>
-Into the Desert
-<div class="audio-player" data-file="17 Into the Desert.mp3"></div>
-Hakuna Matata
-<div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3">Part 1</div>
-<div class="audio-player" data-file="19 Hakuna Matata (Part 2).mp3">Part 2</div>
-Under the Stars
-<div class="audio-player" data-file="23 Under the Stars.mp3"></div>
-Can Your Feel the Love Tonight
-<div class="audio-player" data-file="25 Can You Feel the Love Tonight.mp3"></div>
-Return to the Pridelands
-<div class="audio-player" data-file="27 Return to the Pridelands.mp3"></div>
-
-<h3 style="color:#013ADF">Zazu</h3>
-I Just Can't Wait to Be King
-<div class="audio-player" data-file="08 I Just Can't Wait to Be King.mp3"></div>
-
 
 ## Youtube Show links
 [Show #1](https://youtu.be/C-kFHX88Rhk)<br/>
@@ -332,9 +183,6 @@ I Just Can't Wait to Be King
 
 ## Lion King Parent Handout
 [Parent Handout PDF](/files/Lion King Jr. Parent Handout.pdf)
-
-
-
 
 <script>
 var els = document.querySelectorAll('div.audio-player');
