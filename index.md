@@ -18,6 +18,7 @@ title: Oak Hills Musical 2019-2020
 
 ## Welcome!
 Parents and students. Sorry for the confusion on the music missing from the website. We are hoping to have it back by the end of the week. In the mean time you can find a link to youtube with the music to practice. We can tell the kids have been practicing and love that about them!
+Note for our leads- you must all be off book/memorized by the end of the week. We will start blocking all the dialog sences and that is substantially easier when you're off book. 
 
 ## Cast Lists
 
