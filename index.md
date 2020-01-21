@@ -5,7 +5,7 @@ title: Oak Hills Musical 2019-2020
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday Jan. 19, 2020
+## Monday Jan. 20, 2020
 * Updated welcome
 * Cast and Ensemble Lists
 * Updated calendar
@@ -17,8 +17,7 @@ title: Oak Hills Musical 2019-2020
 -----------
 
 ## Welcome!
-Parents- We are already off to a great start. We had very successful practices last week and the kids are picking up the African language very quickly. Please continue to practice at home. Lionesses (Red ensemble) have been added to the Grasslands chant. Blue ensemble is now part of Hakuna Matata. Song lists has been updated for practicing.
-The calendar can be found above in the blue bar. When you open the calendar you will see the dates and times ensembles are needed. Please click onto the time and it will show the complete list of who is needed, time they are needed, and where they will have rehearsal (gym, portable, or library). In the details it lists what they will be working on.  
+Parents and students. Sorry for the confusion on the music missing from the website. We are hoping to have it back by the end of the week. In the mean time you can find a link to youtube with the music to practice. We can tell the kids have been practicing and love that about them!
 
 ## Cast Lists
 
@@ -69,6 +68,7 @@ Emma Dellenbach|Animal|Green
 Amelia Geilman|Hyena|Blue
 Kylie Goodell|Stage crew|
 Matthew Hess|Animal|Green
+Carter Halladay|Animal|Orange
 Mabel Hutchings|Animal|Orange
 Peter Hutchings|Animal|Orange
 Audrey Jensen|Animal|Orange
@@ -132,6 +132,7 @@ Name|Part|Ensemble
 -----|-----|-----
 William Barker|Hyena|Blue
 Sailor Beyer|Hyena|Blue
+Luke Bleazard|Animal|Green
 Simon Brady|Animal|Green
 Lily Bremner|Hyena|Blue
 Chloe Bryson|Stage crew|
@@ -173,8 +174,10 @@ Emily Wellard|Animal|Green
 Seth Wright|Animal|Green
 Chuck Yates|Animal|Green
 
+## Youtube Music Link
+[Lion King Music](https://www.youtube.com/watch?v=ET8WA9rlEIU&list=PLLb1A1sS2On9zLgW9Drfbo4s6jMSHQqiY)
 
-## Youtube Show links
+## Youtube Show Links
 [Show #1](https://youtu.be/C-kFHX88Rhk)<br/>
 [Show #2](https://youtu.be/3_-Uxp4sZQg)
 
