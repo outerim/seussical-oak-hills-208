@@ -5,10 +5,11 @@ title: Oak Hills Musical 2019-2020
 <div class="updates" markdown="1">
 
 # Updates
-## Monday Jan. 20, 2020
-* Updated welcome
-* Cast and Ensemble Lists
+## Sunday Jan. 26, 2020
 * Updated calendar
+* Updated welcome
+* Music links
+* Cast and Ensemble Lists
 * Lion King Cast form
 * Lion King Parent Handout
 
@@ -17,8 +18,41 @@ title: Oak Hills Musical 2019-2020
 -----------
 
 ## Welcome!
-Parents and students. Sorry for the confusion on the music missing from the website. We are hoping to have it back by the end of the week. In the mean time you can find a link to youtube with the music to practice. We can tell the kids have been practicing and love that about them!
-Note for our leads- you must all be off book/memorized by the end of the week. We will start blocking all the dialog sences and that is substantially easier when you're off book. 
+Parents and students- YAY!! We were able to get the music back up on our site! Instead of having a long list of repeated songs we decided to just have all the songs listed. We are excited for this weeks rehearsals. The students are doing a great job in rehearsals and are responding well to the choreography the directors are teaching them. Proud of these awesome kids! We are adding a couple extra music review rehearsals on Monday mornings. These will not start until 8:15 to give the students a little longer in the morning, but please be on time so we can start right at 8:15. Thank you all for you continued support to your students and this show! We couldn't do it with out all of you and our amazing directors!
+
+## Songs
+The Circle of Life
+<div class="audio-player" data-file="02 Circle of Life with Nants' Ingonyama.mp3"></div>
+Grasslands Chant
+<div class="audio-player" data-file="04 Grasslands Chant.mp3"></div>
+Hakuna Matata
+<div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3">Part 1</div>
+<div class="audio-player" data-file="19 Hakuna Matata (Part 2).mp3">Part 2</div>
+I Just Can't Wait To Be King
+<div class="audio-player" data-file="08 I Just Can't Wait to Be King.mp3"></div>
+They Live In You
+<div class="audio-player" data-file="13 They Live in You.mp3"></div>
+He Lives In You
+<div class="audio-player" data-file="26 He Lives in You.mp3"></div>
+Can You Feel The Love Tonight
+<div class="audio-player" data-file="25 Can You Feel the Love Tonight.mp3"></div>
+The Lioness Hunt
+<div class="audio-player" data-file="07 The Lioness Hunt.mp3"></div>
+The Mourning
+<div class="audio-player" data-file="16 The Mourning.mp3"></div>
+Shadowland
+<div class="audio-player" data-file="21 Shadowland.mp3"></div>
+Be Prepared
+<div class="audio-player" data-file="11 Be Prepared.mp3"></div>
+The Stampede
+<div class="audio-player" data-file="15 The Stampede.mp3"></div>
+Under the Stars
+<div class="audio-player" data-file="23 Under the Stars.mp3"></div>
+Return to the Pridelands
+<div class="audio-player" data-file="27 Return to the Pridelands.mp3"></div>
+Scar's Last Stand
+<div class="audio-player" data-file="29 Scar's Last Stand (Part 1).mp3">Part 1</div>
+<div class="audio-player" data-file="30 Scar's Last Stand (Part 2).mp3">Part 2</div>
 
 ## Cast Lists
 
@@ -60,7 +94,6 @@ Sage Anderson|Animal|Green
 Ben Bagley|Animal|Orange
 Greyson Birchard|Animal|Green
 Lindsey Bleazard|Animal|Green
-Luke Bleazard|Animal|Green
 Ryan Bleazard|Stage crew|
 Bridger Bronson|Hyena|Blue
 Trinton Christensen|Hyena|Blue
