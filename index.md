@@ -5,10 +5,10 @@ title: Oak Hills Musical 2019-2020
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday Jan. 26, 2020
+## Monday Jan. 27, 2020
 * Updated calendar
 * Updated welcome
-* Music links
+* Ensemble song list
 * Cast and Ensemble Lists
 * Lion King Cast form
 * Lion King Parent Handout
@@ -18,41 +18,70 @@ title: Oak Hills Musical 2019-2020
 -----------
 
 ## Welcome!
-Parents and students- YAY!! We were able to get the music back up on our site! Instead of having a long list of repeated songs we decided to just have all the songs listed. We are excited for this weeks rehearsals. The students are doing a great job in rehearsals and are responding well to the choreography the directors are teaching them. Proud of these awesome kids! We are adding a couple extra music review rehearsals on Monday mornings. These will not start until 8:15 to give the students a little longer in the morning, but please be on time so we can start right at 8:15. Thank you all for you continued support to your students and this show! We couldn't do it with out all of you and our amazing directors!
+Parents and students- We are so sorry about this music situation! It has been back and forth whether or the audio files can be shared with the students via the website in compliance with our licensing agreement. It has been confirmed that it can not be on the site but that we are able to share a link with you to download the music onto your phones, tablets, computers, ipads etc. The link has been emailed to you. You can download both the rehearsal tracks and the performance tracks. The rehearsal ones have the vocals included. The performance is without vocals. It is helpful to have them listen and practice with the rehearsal and then with the performance tracks. We are sorry for the back and forth on this. We have also left the youtube link to the songs at the bottom of the page. Down below we have provided a list of the songs you students should be practicing according to their ensemble.  
 
-## Songs
-The Circle of Life
-<div class="audio-player" data-file="02 Circle of Life with Nants' Ingonyama.mp3"></div>
-Grasslands Chant
-<div class="audio-player" data-file="04 Grasslands Chant.mp3"></div>
-Hakuna Matata
-<div class="audio-player" data-file="18 Hakuna Matata (Part 1).mp3">Part 1</div>
-<div class="audio-player" data-file="19 Hakuna Matata (Part 2).mp3">Part 2</div>
-I Just Can't Wait To Be King
-<div class="audio-player" data-file="08 I Just Can't Wait to Be King.mp3"></div>
-They Live In You
-<div class="audio-player" data-file="13 They Live in You.mp3"></div>
-He Lives In You
-<div class="audio-player" data-file="26 He Lives in You.mp3"></div>
-Can You Feel The Love Tonight
-<div class="audio-player" data-file="25 Can You Feel the Love Tonight.mp3"></div>
-The Lioness Hunt
-<div class="audio-player" data-file="07 The Lioness Hunt.mp3"></div>
-The Mourning
-<div class="audio-player" data-file="16 The Mourning.mp3"></div>
-Shadowland
-<div class="audio-player" data-file="21 Shadowland.mp3"></div>
-Be Prepared
-<div class="audio-player" data-file="11 Be Prepared.mp3"></div>
-The Stampede
-<div class="audio-player" data-file="15 The Stampede.mp3"></div>
-Under the Stars
-<div class="audio-player" data-file="23 Under the Stars.mp3"></div>
-Return to the Pridelands
-<div class="audio-player" data-file="27 Return to the Pridelands.mp3"></div>
-Scar's Last Stand
-<div class="audio-player" data-file="29 Scar's Last Stand (Part 1).mp3">Part 1</div>
-<div class="audio-player" data-file="30 Scar's Last Stand (Part 2).mp3">Part 2</div>
+## Ensemble song list
+<h3 style="color:#B404AE">Everyone</h3>
+* Circle of life
+* Grassland chant
+* They live in you
+* Hakuna Matata
+* He lives in you
+* Final
+* Bows
+
+<h3 style="color:green">Green Ensemble</h3>
+* Circle of life
+* Grassland chant (sung in back)
+* I just can’t wait to be king
+* They live in you
+* The stampede (sung in back)
+* Hakuna Matata (sung in back)
+* Can you feel the love tonight
+* He lives in you
+* Final
+* Bows
+
+<h3 style="color:orange">Orange Ensemble</h3>
+* Circle of life
+* Grassland chant
+* I just can’t wait to be king (sung in back)
+* They live in you (sung in back)
+* The stampede
+* Hakuna Matata
+* Can you feel the love tonight
+* He lives in you (sung in back)
+* Final
+* Bows
+
+<h3 style="color:blue">Blue Ensemble</h3>
+* Circle of life
+* Grassland chant (sung in back)
+* I just can’t wait to be king (sung in back)
+* Be Prepared
+* They live in you (sung in back)
+* The stampede
+* Hakuna Matata (sung in back)
+* Shadowland
+* Can you feel the love tonight
+* He lives in you (sung in back)
+* Final
+* Bows
+
+<h3 style="color:red">Red Ensemble</h3>
+* Circle of life
+* Grassland chant
+* The Lioness hunt
+* I just can’t wait to be king (sung in back)
+* They live in you (sung in back)
+* The stampede (sung in back)
+* The Mourning
+* Hakuna Matata (sung in back)
+* Shadowland
+* Can you feel the love tonight
+* He lives in you (sung in back)
+* Final
+* Bows
 
 ## Cast Lists
 
