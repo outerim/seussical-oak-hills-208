@@ -18,7 +18,7 @@ title: Oak Hills Musical 2019-2020
 -----------
 
 ## Welcome!
-Parents and students- We have added the performance dates for each of the casts. Pumbaa cast will have opening night and perform M/W/Fri. afternoon, March 9th, 11th, and 13th. Timon cast will have closing night and perform T/Th/Fri. night, March 10th, 12th, and 13th. The evening shows will start at 7:00pm. The Friday afternoon start time is still being determined but most likely at 4:00pm. Costumes are starting to come together. By the end of the week we should have an email ready with what your student will need for their base. All students are responsible for their base layer. These kids are rocking it at rehearsal and are doing a great job. We are very proud of them! This music although familiar is different and difficult but they always rise to the occasion. Thank you to those who are practicing at home. We can really tell and it is extremely helpful. Leads this is a reminder that you need to have all lines memorized by now. Please know the lines leading into your lines and your lines. It makes it much easier for you to learn your blocking. 
+Parents and students- We have added the performance dates for each of the casts. Pumbaa cast will have opening night and perform M/W/Fri. afternoon, March 9th, 11th, and 13th. Timon cast will have closing night and perform T/Th/Fri. night, March 10th, 12th, and 13th. The evening shows will start at 7:00pm. The Friday afternoon start time is still being determined but most likely at 4:00pm. Costumes are starting to come together. By the end of the week we should have an email ready with what your student will need for their base. All students are responsible for their base layer. These kids are rocking it at rehearsal and are doing a great job. We are very proud of them! This music although familiar is different and difficult but they always rise to the occasion. Thank you to those who are practicing at home. We can really tell and it is extremely helpful. Leads this is a reminder that you need to have all lines memorized by now. Please know the lines leading into your lines and your lines. It makes it much easier for you to learn your blocking.
 
 ## Ensemble song list
 <h3 style="color:#B404AE">Everyone</h3>
@@ -233,7 +233,7 @@ Beck Terry|Animal|Orange
 Drew Terry|Animal|Orange
 Jeffery Thiriot|Animal|Green
 Leilani Walker|Animal|Orange
-Emily Wellard|Animal|Green
+Emily Whicker|Animal|Green
 Seth Wright|Animal|Green
 Chuck Yates|Animal|Green
 
