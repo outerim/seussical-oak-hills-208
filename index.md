@@ -5,9 +5,11 @@ title: Oak Hills Musical 2019-2020
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday Feb. 9, 2020
+## Thursday Feb. 20, 2020
 * Updated calendar
 * Updated welcome
+* Tickets
+* Cotumes
 * Ensemble song list
 * Cast and Ensemble Lists
 * Lion King Cast form
@@ -18,7 +20,34 @@ title: Oak Hills Musical 2019-2020
 -----------
 
 ## Welcome!
-Parents and students- Our calendar has been updated for the rest of the year. The calendar is subject to change if we see a need for more time on certain things. Please always check the calendar to make sure when and where you student is needed. We are down to 4 weeks before our show opens and we are so excited (and nervous). It is going to be great! LEADS must be off script at this point! Ensemble members keep going over the music. It is sounding so good and we can tell you have been practicing. Keep it up! Costume assignments will be coming out this week so watch for those!
+Parents and students- we open in about 2 weeks! Can you believe it! Still so much we need to do but are so proud of these kids! Please be memorized! We have been going through the songs as a group of some students seem to be surprised that they should be singing. Below is a list of songs that each ensemble sings and if they are on stage performing or on the side/back "sweetening the track" so to say with their voices. Please have your students review all the songs they are part of. We are at the point in rehearsals and we are practicing with the performance tracks with out the vocals.
+
+## Tickets
+Tickets will be "on sale" (They are free) Feb. 28th 1:30pm-3:30pm in the front atrium of the school. You may bring one other person (13 year and older) to come stand in line with you to get tickets. You will receive 8 tickets to which ever show(s) you want/need. If you need more tickets we ask that you please go to the back of the line for additional tickets. This helps insure that everyone has an equal chance to get tickets.  Please remember that the ticket ladies are volunteers and will do their very best to accommodate everyone. Please be kind and patient to them as they help us with this process. Please be kind and courteous to those standing in line with you.
+
+## Costumes
+Most of the costumes pieces will be provided but there are some things that we will need you to help provide for you student. We are asking for all students (minus Timon and Zazu) to have LONG sleeve shirts. This will help their animal costumes stand out more. Also all students except Zazu will be performing with out shoes and socks.
+
+<h3 style="color:brown">Mufasa</h3>
+Light brown LONG sleeve shirt, leggings or shorts to go under the Mufasa pants.
+<h3 style="color:brown">Young and Old Simba</h3>
+Light brown LONG sleeve shirt, leggings or shorts to go under the Simba pants.
+<h3 style="color:brown">Scar</h3>
+LONG sleeve Black shirt, leggings or shorts to go under the Scar pants
+<h3 style="color:brown">Young and Old Nala, Sarabi, Sarafina, Lionesses</h3>
+Brown Leotard
+<h3 style="color:brown">Rafiki</h3>
+LONG sleeve Black shirt, Black leggings
+<h3 style="color:brown">Zazu</h3>
+White button up collared shirt, Orange knee high socks, black shoes
+<h3 style="color:brown">Timon</h3>
+White base tshirt, yellow pants. These would probably be the best to get [Gold Mustard Joggers](https://www.amazon.com/ALWAYS-Women-Drawstrings-Joggers-Pants/dp/B07KX21VK7/ref=sr_1_22?dchild=1&keywords=gold%2Bjoggers%2Bwomen&qid=1582251364&sr=8-22&th=1)
+<h3 style="color:brown">Pumbaa</h3>
+LONG sleeve black shirt, shorts or legging to wear under Pumbaa pants
+<h3 style="color:brown">Shenzi, Banzai, Ed</h3>
+LONG sleeve Black shirt, Black pants or leggings
+<h3 style="color:brown">Green, Orange, Blue Ensembles</h3>
+LONG sleeve Black shirt, black legging or pants
 
 ## Ensemble song list
 <h3 style="color:#B404AE">Everyone</h3>
