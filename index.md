@@ -48,7 +48,8 @@ LONG sleeve black shirt, shorts or legging to wear under Pumbaa pants
 LONG sleeve Black shirt, Black pants or leggings
 <h3 style="color:brown">Green, Orange, Blue Ensembles</h3>
 LONG sleeve Black shirt, black legging or pants
-
+<h3 style="color:brown">Stage Crew</h3>
+LONG sleeve black shirt and pants. Spot light students need a pair of work or gardening gloves. The spot lights get hot. 
 ## Ensemble song list
 <h3 style="color:#B404AE">Everyone</h3>
 * Circle of life
